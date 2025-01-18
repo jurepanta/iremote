@@ -2,5 +2,13 @@ Here is how you can remake an old IR apple receiver to work with old IR remote:
 https://www.youtube.com/watch?v=BXUt_SC1Vtw
 
 1. In automator create bash script that will start your scripts
-2. Modify iremote.sh to suit your needs
+2. Modify iremote.sh, tv.sh and vlc_.sh to suit your needs and change the "username" to your name
 3. Enjoy
+
+Apple remote control has only 6 buttons, but with combinations of what buttons you press you can have more functionality
+In the script that checks which buttons are pressed for example: 
+              1. if buttons playpause and menu are pressed within one second (very quick),
+              the computer will shutdown
+              2. if the menu button is pressed multiple times 4 times or more, the VLC will open the desired playlist
+              3. if we hold down the menu button and VLC is not frontmost application (is not in activated in front) 
+              the VLC will get the command to stop (not pause)
