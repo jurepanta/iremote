@@ -2,13 +2,16 @@
 sleep 10
 while true
 do
+# every 10 seconds checks if deamon is still running and if for some reason is not running it starts it again
 if pgrep -x "iremoted" >/dev/null
 then
 true
 else
 /Users/jore/iremoted > /Users/jore/ir_received &>/dev/null &
 fi
-
+# checking for user idletime if user is not present at the computer for 90 seconds it checks if VLC is the application active in front of 
+# other applications then activates the System Events as frontmost application so the iremoted deamon can receive IR signal,
+# because VLC takes over the remote control
 n_j=$((`ioreg -c IOHIDSystem | sed -e '/HIDIdleTime/!{ d' -e 't' -e '}' -e 's/.* = //g' -e 'q'` / 1000000000));
 if [[ $n_j -gt 90 ]]
 then
