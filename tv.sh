@@ -17,7 +17,7 @@ playing=$(osascript -e 'tell application "VLC"
                 get playing
             end tell')
 if [[ $playing == "false" ]]; then
-#if VLC is not in fullscreen and VLC is stopped or paused, and the menu button was pressed multiple times it closes VLC and starts VLC with another playlist
+#if VLC is stopped or paused, and the menu button was pressed multiple times it closes VLC and starts VLC with another playlist
 echo "" > '/Users/jore/ir_received';
 killall -9 "VLC"
 sleep 2
