@@ -1,0 +1,5 @@
+sh /Users/username/vlc_.sh &>/dev/null &
+/Users/username/iremoted > /Users/jore/ir_received &>/dev/null &
+sh /Users/username/iremote.sh &>/dev/null &
+sh /Users/username/tv.sh &>/dev/null &
+exit
