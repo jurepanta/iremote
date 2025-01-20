@@ -1,7 +1,8 @@
 Here is how you can remake an old IR apple receiver to work with old IR remote:
 https://www.youtube.com/watch?v=BXUt_SC1Vtw
 
-1. In automator create bash script that will start your scripts
+1. In automator create new Applicaton, add "Run Shell Script" that will start your scripts, copy content from autostart_in_automator.txt 
+   under System Preferences --> Users & Groups --> Login Items add your application to autostart the scripts
 2. Modify iremote.sh, tv.sh and vlc_.sh to suit your needs and change the "username" to your name
 3. Enjoy
 
@@ -13,7 +14,11 @@ In the script that checks which buttons are pressed for example:
               3. if we hold down the menu button and VLC is not frontmost application (is not activated in the front) 
               the VLC will get the command to stop (not pause)
 
-You can write your own script, to try what code you get from receiver just open Terminal and run the daemon: ./iremoted 
+You can write your own script, to try what code you get from IR receiver just open Terminal and run the daemon with the command: ./iremoted 
 Then press the buttons and see what codes you get.
 
 If you are using Apple M1 that is ARM-based so you might need to compile the iremoted.c for the arm chipset.
+
+The scripts work in background with "iremoted" daemon that writes the codes of buttons pressed into file ir_received 
+The iremote.sh script checks every second what codes are in the file, performs the actions that you want and flushes 
+the file every second for new codes.
