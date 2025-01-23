@@ -33,7 +33,7 @@ osascript -e 'tell app "System Events" to shut down';
 
 else
 #when upper combinations are not pressed it checks for single button press and if VLC is running
-#the menu button togles the Shuffle On/Off
+#the menu button toggles the Shuffle On/Off
 if pgrep -x "VLC" >/dev/null
 then
 case "$value" in
