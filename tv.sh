@@ -18,6 +18,7 @@ playing=$(osascript -e 'tell application "VLC"
             end tell')
 if [[ $playing == "false" ]]; then
 #if VLC is stopped or paused, and the menu button was pressed multiple times it closes VLC and starts VLC with another playlist
+#so we can switch to radio or music playlist if we stoped watching movie or TV.
 echo "" > '/Users/jore/ir_received';
 killall -9 "VLC"
 sleep 2
