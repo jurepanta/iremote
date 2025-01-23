@@ -10,7 +10,7 @@ value=`cat /Users/username/ir_received`;
 if [[ "$value" == *"$mnu"* ]] && [[ "$value" == *"$vdown"* ]]; then
 true
 #dosomething when menu and volumedown is pressed on the remote within one second (very quick)
-
+#for example you can send curl command to switch off the lights with HomeAssistant
 elif [[ "$value" == *"$vup"* ]] && [[ "$value" == *"$vdown"* ]]; then
 true
 #dosomethingelse when menu and volume down is pressed on the remote within one second (very quick)
@@ -28,6 +28,7 @@ osascript -e 'activate application "System Events"';
 echo "" > '/Users/username/ir_received';
 fi
 #when menu and playpause buttons on the remote are pressed within one second (very quick), the computer shutdown is executed
+#would only use playpause for this action, since we do not want to mess with (next previous and playpause) controlls to much
 elif [[ "$value" == *"$mnu"* ]] && [[ "$value" == *"$playpause"* ]]; then
 osascript -e 'tell app "System Events" to shut down';
 
