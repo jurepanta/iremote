@@ -19,7 +19,7 @@ playing=$(osascript -e 'tell application "VLC"
 if [[ $playing == "false" ]]; then
 #if VLC is stopped or paused, and the menu button was pressed multiple times it closes VLC and starts VLC with another playlist
 #so we can switch to radio or music playlist if we stoped watching movie or TV.
-echo "" > '/Users/jore/ir_received';
+echo "" > '/Users/username/ir_received';
 killall -9 "VLC"
 sleep 2
 open -a /Applications/VLC.app/Contents/MacOS/VLC /Users/username/Music/radio.xspf
