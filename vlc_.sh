@@ -11,7 +11,7 @@ else
 fi
 # checking for user idletime if user is not present at the computer for 90 seconds it checks if VLC is the application active in front of 
 # other applications then activates the System Events as frontmost application so the iremoted deamon can receive IR signal,
-# because VLC takes over the remote control
+# because VLC takes over the remote control and only if we make System Events focused we can use this scripts.
 n_j=$((`ioreg -c IOHIDSystem | sed -e '/HIDIdleTime/!{ d' -e 't' -e '}' -e 's/.* = //g' -e 'q'` / 1000000000));
 if [[ $n_j -gt 90 ]]
 then
