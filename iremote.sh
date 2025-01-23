@@ -47,6 +47,7 @@ case "$value" in
       *"$vup"*) osascript -e 'tell app "VLC" to volumeUp';;
       *"$vdown"*) osascript -e 'tell app "VLC" to volumeDown';;
 *);;
+#in case we have USB external sound card we send the volume up down commands to VLC when the VLC is not focused application.
 esac
 else
 num=$(awk '{n+=gsub("0x18", "&")}END{print n}' <<<"$value")
