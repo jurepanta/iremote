@@ -7,7 +7,7 @@ if pgrep -x "iremoted" >/dev/null
 then
 true
 else
-/Users/username/iremoted > /Users/username/ir_received &>/dev/null &
+nohup /Users/username/iremoted > /Users/username/ir_received &>/dev/null &
 fi
 # checking for user idletime if user is not present at the computer for 90 seconds it checks if VLC is the application active in front of 
 # other applications then activates the System Events as frontmost application so the iremoted deamon can receive IR signal,
