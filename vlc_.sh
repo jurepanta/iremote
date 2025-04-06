@@ -22,6 +22,9 @@ if [ $vlc_front == "VLC" ]
 then
 osascript -e 'tell application "System Events"' -e 'set visible of process "Finder" to false' -e 'end tell'
 osascript -e 'activate application "System Events"'
+
+#osascript -e 'tell application "System Events"' -e 'set autohide of dock preferences to not (autohide of dock preferences)' -e 'end tell'
+#if you are using only one screen uncomment this line above, so dock gets hidden.
 fi
 
 fi
