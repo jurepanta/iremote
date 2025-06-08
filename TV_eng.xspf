@@ -15,7 +15,7 @@
 			<location>http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e90e8cb05d2b0007f10a61/master.m3u8?appName=web&amp;appVersion=unknown&amp;clientTime=0&amp;deviceDNT=0&amp;deviceId=2c7a54a2-35fc-11ef-a031-2b5d494037a2&amp;deviceMake=Chrome&amp;deviceModel=web&amp;deviceType=web&amp;deviceVersion=unknown&amp;includeExtendedEvents=false&amp;serverSideAds=false&amp;sid=06d7c73f-91e9-44c5-868e-5336253a1d67</location>
 			<title>Game Show Central (#)</title>
 			<trackNum>18</trackNum>
-			<duration>30000</duration>
+			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>1</vlc:id>
 			</extension>
@@ -24,7 +24,7 @@
 			<location>https://cvtv.cvalley.net/hls/KMBCMeTV/KMBCMeTV.m3u8</location>
 			<title>Me TV Kansas City</title>
 			<trackNum>28</trackNum>
-			<duration>28010</duration>
+			<duration>28032</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>2</vlc:id>
 			</extension>
@@ -60,6 +60,7 @@
 			<location>https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est_124.m3u8</location>
 			<title>PBS Kids WBRA</title>
 			<trackNum>68</trackNum>
+			<duration>300300</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>6</vlc:id>
 			</extension>
@@ -68,7 +69,7 @@
 			<location>http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8</location>
 			<title>AMC East</title>
 			<trackNum>78</trackNum>
-			<duration>20721</duration>
+			<duration>24825</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>7</vlc:id>
 			</extension>
@@ -86,6 +87,7 @@
 			<location>https://amc-absolutereality-1-us.plex.wurl.tv/playlist.m3u8</location>
 			<title>AMC Absolute Reality</title>
 			<trackNum>98</trackNum>
+			<duration>36036</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>9</vlc:id>
 			</extension>
@@ -94,7 +96,7 @@
 			<location>https://amc-amcpresents-1-us.plex.wurl.tv/playlist.m3u8</location>
 			<title>AMC Presents</title>
 			<trackNum>108</trackNum>
-			<duration>33529</duration>
+			<duration>36036</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>10</vlc:id>
 			</extension>
@@ -109,21 +111,12 @@
 			</extension>
 		</track>
 		<track>
-			<location>http://fl3.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8</location>
-			<title>Big Ten Network</title>
-			<trackNum>128</trackNum>
-			<duration>20020</duration>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>12</vlc:id>
-			</extension>
-		</track>
-		<track>
 			<location>https://cvtv.cvalley.net/hls/KTVOComet/KTVOComet.m3u8</location>
 			<title>Comet Kirksville</title>
 			<trackNum>148</trackNum>
-			<duration>28010</duration>
+			<duration>28032</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>13</vlc:id>
+				<vlc:id>12</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -132,7 +125,7 @@
 			<trackNum>158</trackNum>
 			<duration>40039</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>14</vlc:id>
+				<vlc:id>13</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -141,7 +134,7 @@
 			<trackNum>168</trackNum>
 			<duration>28032</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>15</vlc:id>
+				<vlc:id>14</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -150,7 +143,7 @@
 			<trackNum>178</trackNum>
 			<duration>30000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>16</vlc:id>
+				<vlc:id>15</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -159,7 +152,7 @@
 			<trackNum>188</trackNum>
 			<duration>28032</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>17</vlc:id>
+				<vlc:id>16</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -168,16 +161,16 @@
 			<trackNum>198</trackNum>
 			<duration>60060</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>18</vlc:id>
+				<vlc:id>17</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>http://212.102.60.231/HBO_FAMILY/index.m3u8</location>
 			<title>HBO Family</title>
 			<trackNum>208</trackNum>
-			<duration>24024</duration>
+			<duration>20020</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>19</vlc:id>
+				<vlc:id>18</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -186,7 +179,7 @@
 			<trackNum>218</trackNum>
 			<duration>20020</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>20</vlc:id>
+				<vlc:id>19</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -195,7 +188,7 @@
 			<trackNum>228</trackNum>
 			<duration>36036</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>21</vlc:id>
+				<vlc:id>20</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -204,7 +197,7 @@
 			<trackNum>237</trackNum>
 			<duration>28032</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>22</vlc:id>
+				<vlc:id>21</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -213,7 +206,7 @@
 			<trackNum>247</trackNum>
 			<duration>28032</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>23</vlc:id>
+				<vlc:id>22</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -222,16 +215,7 @@
 			<trackNum>257</trackNum>
 			<duration>23040</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>24</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>http://fl2.moveonjoy.com/SHOWTIME_NEXT/index.m3u8</location>
-			<title>Showtime Next East</title>
-			<trackNum>267</trackNum>
-			<duration>20020</duration>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>25</vlc:id>
+				<vlc:id>23</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -240,16 +224,16 @@
 			<trackNum>277</trackNum>
 			<duration>40039</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>26</vlc:id>
+				<vlc:id>24</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>https://a7b60a6853d843dd9105acfa8d6e74c7.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_BeanoTV/playlist.m3u8</location>
 			<title>Beano TV</title>
 			<trackNum>297</trackNum>
-			<duration>36036</duration>
+			<duration>35970</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>27</vlc:id>
+				<vlc:id>25</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -258,7 +242,7 @@
 			<trackNum>307</trackNum>
 			<duration>60060</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>28</vlc:id>
+				<vlc:id>26</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -267,43 +251,33 @@
 			<trackNum>327</trackNum>
 			<duration>60060</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>29</vlc:id>
+				<vlc:id>27</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>https://go2thls.wns.live/hls/stream.m3u8</location>
 			<title>Go 2 Travel</title>
 			<trackNum>356</trackNum>
-			<duration>96560</duration>
+			<duration>101480</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>30</vlc:id>
+				<vlc:id>28</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>http://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8</location>
 			<title>NRB Network </title>
 			<trackNum>366</trackNum>
-			<duration>22767</duration>
+			<duration>24033</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>31</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>https://amg01201-cinedigmenterta-retrocrush-cineverse-nrfll.amagi.tv/playlist/amg01201-cinedigmenterta-retrocrush-cineverse/playlist.m3u8</location>
-			<title>Retro Crush</title>
-			<trackNum>376</trackNum>
-			<duration>57992</duration>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>32</vlc:id>
+				<vlc:id>29</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>https://reflect-communitytv.cablecast.tv/live-5/live/live.m3u8</location>
 			<title>SC Currents</title>
 			<trackNum>386</trackNum>
-			<duration>99840</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>33</vlc:id>
+				<vlc:id>30</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -312,43 +286,33 @@
 			<trackNum>395</trackNum>
 			<duration>60060</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>34</vlc:id>
+				<vlc:id>31</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>https://ov.ottera.tv/live/master.m3u8?channel=mcom_ta_us</location>
 			<title>The Archive (#)</title>
 			<trackNum>405</trackNum>
-			<duration>56747</duration>
+			<duration>60000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>35</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-filmdetective-cineverse/playlist.m3u8</location>
-			<title>The Film Detective</title>
-			<trackNum>415</trackNum>
-			<duration>59994</duration>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>36</vlc:id>
+				<vlc:id>32</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>https://lds-timeline-plex.amagi.tv/playlist.m3u8</location>
 			<title>Timeline</title>
 			<trackNum>425</trackNum>
-			<duration>59960</duration>
+			<duration>54880</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>37</vlc:id>
+				<vlc:id>33</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>https://app.viloud.tv/hls/channel/0d984388834adac967a4ec4e69bc8271.m3u8</location>
 			<title>Travel Adventures with Jeff Swan</title>
 			<trackNum>435</trackNum>
-			<duration>55000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>38</vlc:id>
+				<vlc:id>34</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -357,7 +321,7 @@
 			<trackNum>445</trackNum>
 			<duration>24024</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>39</vlc:id>
+				<vlc:id>35</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -366,7 +330,7 @@
 			<trackNum>455</trackNum>
 			<duration>24024</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>40</vlc:id>
+				<vlc:id>36</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -375,7 +339,7 @@
 			<trackNum>465</trackNum>
 			<duration>59994</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>41</vlc:id>
+				<vlc:id>37</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -384,7 +348,7 @@
 			<trackNum>475</trackNum>
 			<duration>66733</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>42</vlc:id>
+				<vlc:id>38</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -393,7 +357,7 @@
 			<trackNum>485</trackNum>
 			<duration>54054</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>43</vlc:id>
+				<vlc:id>39</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -402,16 +366,16 @@
 			<trackNum>495</trackNum>
 			<duration>60000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>44</vlc:id>
+				<vlc:id>40</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>https://stitcher.pluto.tv/stitch/hls/channel/654933e253fc970008390114/master.m3u8?deviceType=web&amp;servertSideAds=false&amp;deviceMake=safari&amp;deviceVersion=1&amp;deviceId=spencer&amp;appVersion=1&amp;deviceDNT=0&amp;deviceModel=web&amp;sid=cb5874fc-6948-11ef-b8e3-ea3db3d97a96</location>
 			<title>Universal Action</title>
 			<trackNum>505</trackNum>
-			<duration>24000</duration>
+			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>45</vlc:id>
+				<vlc:id>41</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -420,7 +384,7 @@
 			<trackNum>515</trackNum>
 			<duration>120000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>46</vlc:id>
+				<vlc:id>42</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -429,7 +393,7 @@
 			<trackNum>525</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>47</vlc:id>
+				<vlc:id>43</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -438,7 +402,7 @@
 			<trackNum>535</trackNum>
 			<duration>54000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>48</vlc:id>
+				<vlc:id>44</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -447,16 +411,16 @@
 			<trackNum>545</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>49</vlc:id>
+				<vlc:id>45</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>https://is.gd/AEo5Op?GBBC2300003ZQ.m3u8</location>
 			<title>Entertainment Hub</title>
 			<trackNum>555</trackNum>
-			<duration>54000</duration>
+			<duration>59400</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>50</vlc:id>
+				<vlc:id>46</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -465,7 +429,7 @@
 			<trackNum>565</trackNum>
 			<duration>60000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>51</vlc:id>
+				<vlc:id>47</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -474,7 +438,7 @@
 			<trackNum>575</trackNum>
 			<duration>60000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>52</vlc:id>
+				<vlc:id>48</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -483,7 +447,7 @@
 			<trackNum>585</trackNum>
 			<duration>60060</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>53</vlc:id>
+				<vlc:id>49</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -492,7 +456,7 @@
 			<trackNum>595</trackNum>
 			<duration>54054</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>54</vlc:id>
+				<vlc:id>50</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -500,7 +464,7 @@
 			<title>Love Nature</title>
 			<trackNum>605</trackNum>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>55</vlc:id>
+				<vlc:id>51</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -509,7 +473,7 @@
 			<trackNum>614</trackNum>
 			<duration>59994</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>56</vlc:id>
+				<vlc:id>52</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -518,7 +482,7 @@
 			<trackNum>624</trackNum>
 			<duration>60060</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>57</vlc:id>
+				<vlc:id>53</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -527,7 +491,7 @@
 			<trackNum>634</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>58</vlc:id>
+				<vlc:id>54</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -536,7 +500,7 @@
 			<trackNum>644</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>59</vlc:id>
+				<vlc:id>55</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -545,7 +509,7 @@
 			<trackNum>654</trackNum>
 			<duration>60000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>60</vlc:id>
+				<vlc:id>56</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -554,16 +518,16 @@
 			<trackNum>664</trackNum>
 			<duration>60000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>61</vlc:id>
+				<vlc:id>57</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>https://connection3-ent-br.tcl.wurl.tv/playlist.m3u8</location>
 			<title>MovieFone TV</title>
 			<trackNum>674</trackNum>
-			<duration>36036</duration>
+			<duration>37805</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>62</vlc:id>
+				<vlc:id>58</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -572,16 +536,15 @@
 			<trackNum>684</trackNum>
 			<duration>59994</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>63</vlc:id>
+				<vlc:id>59</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>https://bit.ly/ParamountMovie_m3u8</location>
 			<title>Paramount Movie Channel</title>
 			<trackNum>694</trackNum>
-			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>64</vlc:id>
+				<vlc:id>60</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -590,7 +553,7 @@
 			<trackNum>704</trackNum>
 			<duration>54000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>65</vlc:id>
+				<vlc:id>61</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -599,7 +562,7 @@
 			<trackNum>714</trackNum>
 			<duration>54054</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>66</vlc:id>
+				<vlc:id>62</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -608,7 +571,7 @@
 			<trackNum>734</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>67</vlc:id>
+				<vlc:id>63</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -617,7 +580,7 @@
 			<trackNum>744</trackNum>
 			<duration>36036</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>68</vlc:id>
+				<vlc:id>64</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -626,7 +589,7 @@
 			<trackNum>754</trackNum>
 			<duration>36036</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>69</vlc:id>
+				<vlc:id>65</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -635,7 +598,7 @@
 			<trackNum>764</trackNum>
 			<duration>54000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>70</vlc:id>
+				<vlc:id>66</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -644,7 +607,7 @@
 			<trackNum>774</trackNum>
 			<duration>60000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>71</vlc:id>
+				<vlc:id>67</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -653,7 +616,7 @@
 			<trackNum>784</trackNum>
 			<duration>30000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>72</vlc:id>
+				<vlc:id>68</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -662,7 +625,7 @@
 			<trackNum>794</trackNum>
 			<duration>60000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>73</vlc:id>
+				<vlc:id>69</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -671,16 +634,15 @@
 			<trackNum>804</trackNum>
 			<duration>60000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>74</vlc:id>
+				<vlc:id>70</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>https://tinyurl.com/452f428j?profile=inspirationFreetv.m3u8</location>
 			<title>MLB</title>
 			<trackNum>814</trackNum>
-			<duration>60060</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>75</vlc:id>
+				<vlc:id>71</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -689,7 +651,7 @@
 			<trackNum>824</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>76</vlc:id>
+				<vlc:id>72</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -698,7 +660,7 @@
 			<trackNum>834</trackNum>
 			<duration>36036</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>77</vlc:id>
+				<vlc:id>73</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -707,7 +669,7 @@
 			<trackNum>874</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>78</vlc:id>
+				<vlc:id>74</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -716,34 +678,33 @@
 			<trackNum>884</trackNum>
 			<duration>30030</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>79</vlc:id>
+				<vlc:id>75</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b68a18823ecb93393cba2f1/master.m3u8?advertisingId=&amp;appName=web&amp;appStoreUrl=&amp;appVersion=DNT&amp;app_name=&amp;architecture=&amp;buildVersion=&amp;deviceDNT=0&amp;deviceId=5b68a18823ecb93393cba2f1&amp;deviceLat=&amp;deviceLon=&amp;deviceMake=web&amp;deviceModel=web&amp;deviceType=web&amp;deviceVersion=DNT&amp;includeExtendedEvents=false&amp;marketingRegion=US&amp;serverSideAds=false&amp;sid=154&amp;terminate=false&amp;userId=</location>
 			<title>Pluto TV British TV</title>
 			<trackNum>894</trackNum>
-			<duration>22000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>80</vlc:id>
+				<vlc:id>76</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/sdcounty/G0283_012/playlist.m3u8</location>
 			<title>CNC TV</title>
 			<trackNum>914</trackNum>
-			<duration>31498</duration>
+			<duration>29530</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>81</vlc:id>
+				<vlc:id>77</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>https://reflect-tampa-bay-community.cablecast.tv/live-16/live/live.m3u8</location>
 			<title>TBCN</title>
 			<trackNum>924</trackNum>
-			<duration>100008</duration>
+			<duration>99987</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>82</vlc:id>
+				<vlc:id>78</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -752,34 +713,32 @@
 			<trackNum>934</trackNum>
 			<duration>60000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>83</vlc:id>
+				<vlc:id>79</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d40bebc5e3d2750a2239d7e/master.m3u8?advertisingId=&amp;appName=web&amp;appStoreUrl=&amp;appVersion=DNT&amp;app_name=&amp;architecture=&amp;buildVersion=&amp;deviceDNT=0&amp;deviceId=5d40bebc5e3d2750a2239d7e&amp;deviceLat=&amp;deviceLon=&amp;deviceMake=web&amp;deviceModel=web&amp;deviceType=web&amp;deviceVersion=DNT&amp;includeExtendedEvents=false&amp;marketingRegion=US&amp;serverSideAds=false&amp;sid=130&amp;terminate=false&amp;userId=</location>
 			<title>TV Land Drama</title>
 			<trackNum>984</trackNum>
-			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>84</vlc:id>
+				<vlc:id>80</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8</location>
 			<title>ABC News Live</title>
 			<trackNum>994</trackNum>
-			<duration>34944</duration>
+			<duration>32768</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>85</vlc:id>
+				<vlc:id>81</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/563a970aa1a1f7fe7c9daad7/master.m3u8?advertisingId=&amp;appName=web&amp;appStoreUrl=&amp;appVersion=DNT&amp;app_name=&amp;architecture=&amp;buildVersion=&amp;deviceDNT=0&amp;deviceId=563a970aa1a1f7fe7c9daad7&amp;deviceLat=&amp;deviceLon=&amp;deviceMake=web&amp;deviceModel=web&amp;deviceType=web&amp;deviceVersion=DNT&amp;includeExtendedEvents=false&amp;marketingRegion=US&amp;serverSideAds=false&amp;sid=672&amp;terminate=false&amp;userId=</location>
 			<title>Pluto TV Science</title>
 			<trackNum>1004</trackNum>
-			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>86</vlc:id>
+				<vlc:id>82</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -788,7 +747,7 @@
 			<trackNum>1014</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>87</vlc:id>
+				<vlc:id>83</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -797,7 +756,7 @@
 			<trackNum>1024</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>88</vlc:id>
+				<vlc:id>84</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -806,16 +765,15 @@
 			<trackNum>1034</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>89</vlc:id>
+				<vlc:id>85</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>https://jmp2.uk/sam-USBD270001633.m3u8</location>
 			<title>Hallmark Movies &amp; More</title>
 			<trackNum>1044</trackNum>
-			<duration>60060</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>90</vlc:id>
+				<vlc:id>86</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -824,7 +782,7 @@
 			<trackNum>1054</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>91</vlc:id>
+				<vlc:id>87</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -833,7 +791,7 @@
 			<trackNum>1064</trackNum>
 			<duration>60060</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>92</vlc:id>
+				<vlc:id>88</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -842,34 +800,32 @@
 			<trackNum>1074</trackNum>
 			<duration>36036</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>93</vlc:id>
+				<vlc:id>89</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>https://jmp2.uk/sam-USBC24000213P.m3u8</location>
 			<title>Grit Xtra</title>
 			<trackNum>1084</trackNum>
-			<duration>60060</duration>
+			<duration>54054</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>94</vlc:id>
+				<vlc:id>90</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>https://jmp2.uk/sam-USAJ26000015Y.m3u8</location>
 			<title>Drama Life</title>
 			<trackNum>1103</trackNum>
-			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>95</vlc:id>
+				<vlc:id>91</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>https://jmp2.uk/sam-USBB3500002FL.m3u8</location>
 			<title>TV Land Drama</title>
 			<trackNum>1113</trackNum>
-			<duration>26000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>96</vlc:id>
+				<vlc:id>92</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -878,34 +834,33 @@
 			<trackNum>1122</trackNum>
 			<duration>60060</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>97</vlc:id>
+				<vlc:id>93</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>https://jmp2.uk/sam-USBA300022JX.m3u8</location>
 			<title>INFAST</title>
 			<trackNum>1131</trackNum>
-			<duration>60000</duration>
+			<duration>58360</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>98</vlc:id>
+				<vlc:id>94</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>https://jmp2.uk/sam-USBD12000255B.m3u8</location>
 			<title>FIFA+</title>
 			<trackNum>1141</trackNum>
-			<duration>56122</duration>
+			<duration>54054</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>99</vlc:id>
+				<vlc:id>95</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>https://jmp2.uk/sam-USBB10000058A.m3u8</location>
 			<title>SURF NOW TV</title>
 			<trackNum>1151</trackNum>
-			<duration>60060</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>100</vlc:id>
+				<vlc:id>96</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -914,7 +869,7 @@
 			<trackNum>1161</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>101</vlc:id>
+				<vlc:id>97</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -923,16 +878,7 @@
 			<trackNum>1171</trackNum>
 			<duration>36003</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>102</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>https://comedydynamics-tcl.amagi.tv/playlist.m3u8</location>
-			<title>Comedy Dynamics (1080p)</title>
-			<trackNum>1181</trackNum>
-			<duration>60060</duration>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>103</vlc:id>
+				<vlc:id>98</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -940,9 +886,8 @@
 			<title>Pluto TV Stand Up</title>
 			<creator>Pluto TV Stand Up</creator>
 			<trackNum>1191</trackNum>
-			<duration>25533</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>104</vlc:id>
+				<vlc:id>99</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -951,25 +896,24 @@
 			<trackNum>1202</trackNum>
 			<duration>36036</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>105</vlc:id>
+				<vlc:id>100</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>https://damkf751d85s1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HumorMill-DistroTV/152.m3u8</location>
 			<title>Humor Mill (1080p) [Not 24/7]</title>
 			<trackNum>1212</trackNum>
-			<duration>123466</duration>
+			<duration>125200</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>106</vlc:id>
+				<vlc:id>101</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>https://jmp2.uk/sam-USBB4400018LR.m3u8</location>
 			<title>Wipeout Xtra</title>
 			<trackNum>1222</trackNum>
-			<duration>57360</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>107</vlc:id>
+				<vlc:id>102</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -978,25 +922,23 @@
 			<trackNum>1232</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>108</vlc:id>
+				<vlc:id>103</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>https://jmp2.uk/sam-USBD3500041ZF.m3u8</location>
 			<title>American Pickers by History</title>
 			<trackNum>1241</trackNum>
-			<duration>60060</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>109</vlc:id>
+				<vlc:id>104</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>https://jmp2.uk/sam-USAJ3504701A.m3u8</location>
 			<title>Documentary+</title>
 			<trackNum>1251</trackNum>
-			<duration>60060</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>110</vlc:id>
+				<vlc:id>105</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -1005,16 +947,15 @@
 			<trackNum>1261</trackNum>
 			<duration>54054</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>111</vlc:id>
+				<vlc:id>106</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>https://jmp2.uk/sam-USBD700015LK.m3u8</location>
 			<title>Midnight Pulp</title>
 			<trackNum>1271</trackNum>
-			<duration>60060</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>112</vlc:id>
+				<vlc:id>107</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -1024,7 +965,7 @@
 			<trackNum>1281</trackNum>
 			<duration>60060</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>113</vlc:id>
+				<vlc:id>108</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -1034,7 +975,7 @@
 			<trackNum>1292</trackNum>
 			<duration>60000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>114</vlc:id>
+				<vlc:id>109</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -1044,7 +985,7 @@
 			<trackNum>1303</trackNum>
 			<duration>60060</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>115</vlc:id>
+				<vlc:id>110</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -1052,9 +993,8 @@
 			<title>History 365</title>
 			<creator> Nature &amp; History&quot; tvg-chno=&quot;3541&quot;</creator>
 			<trackNum>1314</trackNum>
-			<duration>60060</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>116</vlc:id>
+				<vlc:id>111</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -1064,7 +1004,7 @@
 			<trackNum>1325</trackNum>
 			<duration>60060</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>117</vlc:id>
+				<vlc:id>112</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -1072,9 +1012,8 @@
 			<title>Military Heroes</title>
 			<creator> Nature &amp; History&quot; tvg-chno=&quot;3550&quot;</creator>
 			<trackNum>1336</trackNum>
-			<duration>60060</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>118</vlc:id>
+				<vlc:id>113</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -1082,9 +1021,8 @@
 			<title>TED</title>
 			<creator> Nature &amp; History&quot; tvg-chno=&quot;3559&quot;</creator>
 			<trackNum>1347</trackNum>
-			<duration>118085</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>119</vlc:id>
+				<vlc:id>114</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -1092,9 +1030,9 @@
 			<title>PBS Digital Studios</title>
 			<creator> Nature &amp; History&quot; tvg-chno=&quot;3565&quot;</creator>
 			<trackNum>1358</trackNum>
-			<duration>59992</duration>
+			<duration>55984</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>120</vlc:id>
+				<vlc:id>115</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -1103,7 +1041,7 @@
 			<trackNum>1369</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>121</vlc:id>
+				<vlc:id>116</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -1112,7 +1050,7 @@
 			<trackNum>1379</trackNum>
 			<duration>60060</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>122</vlc:id>
+				<vlc:id>117</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -1121,7 +1059,7 @@
 			<trackNum>1389</trackNum>
 			<duration>60060</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>123</vlc:id>
+				<vlc:id>118</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -1130,7 +1068,7 @@
 			<trackNum>1399</trackNum>
 			<duration>18018</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>124</vlc:id>
+				<vlc:id>119</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -1139,16 +1077,7 @@
 			<trackNum>1409</trackNum>
 			<duration>59993</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>125</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>https://amg01201-cinedigmenterta-dove-cineverse-1fck5.amagi.tv/playlist/amg01201-cinedigmenterta-dove-cineverse/playlist.m3u8</location>
-			<title>Dove Channel</title>
-			<trackNum>1419</trackNum>
-			<duration>59994</duration>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>126</vlc:id>
+				<vlc:id>120</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -1157,7 +1086,7 @@
 			<trackNum>1429</trackNum>
 			<duration>179979</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>127</vlc:id>
+				<vlc:id>121</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -1166,16 +1095,15 @@
 			<trackNum>1439</trackNum>
 			<duration>36036</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>128</vlc:id>
+				<vlc:id>122</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dc2c00abfed110009d97243/master.m3u8?advertisingId=channel&amp;appName=rokuchannel&amp;appVersion=1.0&amp;bmodel=bm1&amp;channel_id=channel&amp;content=channel&amp;content_rating=ROKU_ADS_CONTENT_RATING&amp;content_type=livefeed&amp;coppa=false&amp;deviceDNT=1&amp;deviceId=channel&amp;deviceMake=rokuChannel&amp;deviceModel=web&amp;deviceType=rokuChannel&amp;deviceVersion=1.0&amp;embedPartner=rokuChannel&amp;genre=ROKU_ADS_CONTENT_GENRE&amp;is_lat=1&amp;platform=web&amp;rdid=channel&amp;studio_id=viacom&amp;tags=ROKU_CONTENT_TAGS</location>
 			<title>Pluto TV Sherlock (720p)</title>
 			<trackNum>1449</trackNum>
-			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>129</vlc:id>
+				<vlc:id>123</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -1184,7 +1112,7 @@
 			<trackNum>1459</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>130</vlc:id>
+				<vlc:id>124</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -1193,7 +1121,7 @@
 			<trackNum>1469</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>131</vlc:id>
+				<vlc:id>125</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -1202,7 +1130,7 @@
 			<trackNum>1479</trackNum>
 			<duration>54000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>132</vlc:id>
+				<vlc:id>126</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -1211,16 +1139,16 @@
 			<trackNum>1489</trackNum>
 			<duration>60060</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>133</vlc:id>
+				<vlc:id>127</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>https://unbeaten-tcl.amagi.tv/playlist.m3u8</location>
 			<title>Unbeaten (1080p)</title>
 			<trackNum>1499</trackNum>
-			<duration>59993</duration>
+			<duration>58324</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>134</vlc:id>
+				<vlc:id>128</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -1229,16 +1157,16 @@
 			<trackNum>1509</trackNum>
 			<duration>60060</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>135</vlc:id>
+				<vlc:id>129</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>https://dai.google.com/linear/hls/event/MdbYPXWRStmMq1DaQhsBUw/master.m3u8</location>
 			<title>STIRR The Archive (720p)</title>
 			<trackNum>1519</trackNum>
-			<duration>100026</duration>
+			<duration>103667</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>136</vlc:id>
+				<vlc:id>130</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -1247,16 +1175,16 @@
 			<trackNum>1529</trackNum>
 			<duration>40000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>137</vlc:id>
+				<vlc:id>131</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>https://d4ddgdmj1cvnm.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-SportsFirstTV/409.m3u8</location>
 			<title>Sports First (1080p)</title>
 			<trackNum>1539</trackNum>
-			<duration>124157</duration>
+			<duration>122288</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>138</vlc:id>
+				<vlc:id>132</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -1265,7 +1193,7 @@
 			<trackNum>1549</trackNum>
 			<duration>120120</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>139</vlc:id>
+				<vlc:id>133</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -1274,7 +1202,7 @@
 			<trackNum>1559</trackNum>
 			<duration>54000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>140</vlc:id>
+				<vlc:id>134</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -1283,7 +1211,7 @@
 			<trackNum>1578</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>141</vlc:id>
+				<vlc:id>135</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -1292,25 +1220,23 @@
 			<trackNum>1588</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>142</vlc:id>
+				<vlc:id>136</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d134a74ca91eedee1630faa/master.m3u8?advertisingId=&amp;appName=web&amp;appStoreUrl=&amp;appVersion=DNT&amp;app_name=&amp;architecture=&amp;buildVersion=&amp;deviceDNT=0&amp;deviceId=5d134a74ca91eedee1630faa&amp;deviceLat=&amp;deviceLon=&amp;deviceMake=web&amp;deviceModel=web&amp;deviceType=web&amp;deviceVersion=DNT&amp;includeExtendedEvents=false&amp;marketingRegion=US&amp;serverSideAds=false&amp;sid=903&amp;terminate=false&amp;userId=</location>
 			<title>Pluto TV Classic Movies (England) (720p)</title>
 			<trackNum>1598</trackNum>
-			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>143</vlc:id>
+				<vlc:id>137</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5a66795ef91fef2c7031c599/master.m3u8?advertisingId=channel&amp;appName=rokuchannel&amp;appVersion=1.0&amp;bmodel=bm1&amp;channel_id=channel&amp;content=channel&amp;content_rating=ROKU_ADS_CONTENT_RATING&amp;content_type=livefeed&amp;coppa=false&amp;deviceDNT=1&amp;deviceId=channel&amp;deviceMake=rokuChannel&amp;deviceModel=web&amp;deviceType=rokuChannel&amp;deviceVersion=1.0&amp;embedPartner=rokuChannel&amp;genre=ROKU_ADS_CONTENT_GENRE&amp;is_lat=1&amp;platform=web&amp;rdid=channel&amp;studio_id=viacom&amp;tags=ROKU_CONTENT_TAGS</location>
 			<title>Pluto TV Romance (720p) [Not 24/7]</title>
 			<trackNum>1608</trackNum>
-			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>144</vlc:id>
+				<vlc:id>138</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -1319,7 +1245,7 @@
 			<trackNum>1618</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>145</vlc:id>
+				<vlc:id>139</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -1328,43 +1254,24 @@
 			<trackNum>1628</trackNum>
 			<duration>100000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>146</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?advertisingId=&amp;appName=web&amp;appStoreUrl=&amp;appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&amp;app_name=&amp;architecture=&amp;buildVersion=&amp;deviceDNT=0&amp;deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&amp;deviceLat=40.8364&amp;deviceLon=-74.1403&amp;deviceMake=Opera&amp;deviceModel=Opera&amp;deviceType=web&amp;deviceVersion=66.0.3515.44&amp;includeExtendedEvents=false&amp;serverSideAds=tr&amp;sid=855d6801-c912-428d-b620-ede4dd0c3b15&amp;userId=</location>
-			<title>Pluto TV SPORT : BeIN Sports Xtra (720p) [Not 24/7]</title>
-			<trackNum>1648</trackNum>
-			<duration>25000</duration>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>147</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>http://iptv.prosto.tv:7000/ch313/video.m3u8?secret=cledwwov</location>
-			<title> X-Stream</title>
-			<trackNum>1658</trackNum>
-			<duration>20020</duration>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>148</vlc:id>
+				<vlc:id>140</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8</location>
 			<title>_Red Bull TV (1080p)</title>
 			<trackNum>1668</trackNum>
-			<duration>180000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>149</vlc:id>
+				<vlc:id>141</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8</location>
 			<title>CBSN (720p)</title>
 			<trackNum>1678</trackNum>
-			<duration>102102</duration>
+			<duration>105772</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>150</vlc:id>
+				<vlc:id>142</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -1373,7 +1280,7 @@
 			<trackNum>1688</trackNum>
 			<duration>60000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>151</vlc:id>
+				<vlc:id>143</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -1382,16 +1289,16 @@
 			<trackNum>1698</trackNum>
 			<duration>1800000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>152</vlc:id>
+				<vlc:id>144</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Localish.m3u8</location>
 			<title>Localish (720p)</title>
 			<trackNum>1708</trackNum>
-			<duration>60059</duration>
+			<duration>59992</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>153</vlc:id>
+				<vlc:id>145</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -1400,7 +1307,7 @@
 			<trackNum>1718</trackNum>
 			<duration>36002</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>154</vlc:id>
+				<vlc:id>146</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -1409,7 +1316,7 @@
 			<trackNum>1728</trackNum>
 			<duration>36002</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>155</vlc:id>
+				<vlc:id>147</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -1419,7 +1326,7 @@
 			<trackNum>1738</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>156</vlc:id>
+				<vlc:id>148</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -1429,7 +1336,7 @@
 			<trackNum>1760</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>157</vlc:id>
+				<vlc:id>149</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -1437,9 +1344,8 @@
 			<title>Pluto TV My5 Documentaries (720p)</title>
 			<creator>Pluto TV My5 Documentaries (720p)</creator>
 			<trackNum>1782</trackNum>
-			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>158</vlc:id>
+				<vlc:id>150</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -1447,17 +1353,17 @@
 			<title>Pluto Smithsonian channel picks</title>
 			<creator>Pluto Smithsonian channel picks</creator>
 			<trackNum>1793</trackNum>
-			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>159</vlc:id>
+				<vlc:id>151</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>http://api.toonamiaftermath.com:3000/movies/playlist.m3u8</location>
 			<title>Toonami Aftermath Movies (540p)</title>
 			<trackNum>1804</trackNum>
+			<duration>29905</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>160</vlc:id>
+				<vlc:id>152</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -1466,16 +1372,16 @@
 			<trackNum>1814</trackNum>
 			<duration>60060</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>161</vlc:id>
+				<vlc:id>153</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>http://xlpore-samsungus.amagi.tv/playlist.m3u8</location>
 			<title>Xplore (1080p)</title>
 			<trackNum>1824</trackNum>
-			<duration>55021</duration>
+			<duration>59993</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>162</vlc:id>
+				<vlc:id>154</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -1483,9 +1389,8 @@
 			<title>Pluto TV Stories by AMC </title>
 			<creator>Pluto TV Stories by AMC </creator>
 			<trackNum>1834</trackNum>
-			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>163</vlc:id>
+				<vlc:id>155</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -1494,16 +1399,15 @@
 			<trackNum>1845</trackNum>
 			<duration>16015</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>164</vlc:id>
+				<vlc:id>156</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>https://jmp2.uk/sam-CABC5200009HX.m3u8</location>
 			<title>Architectural Digest</title>
 			<trackNum>1855</trackNum>
-			<duration>56356</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>165</vlc:id>
+				<vlc:id>157</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -1512,7 +1416,7 @@
 			<trackNum>1874</trackNum>
 			<duration>120120</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>166</vlc:id>
+				<vlc:id>158</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -1521,7 +1425,7 @@
 			<trackNum>1884</trackNum>
 			<duration>60060</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>167</vlc:id>
+				<vlc:id>159</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -1529,9 +1433,8 @@
 			<title>Pluto TV Classic TV Comedy</title>
 			<creator>Pluto TV Classic TV Comedy</creator>
 			<trackNum>1894</trackNum>
-			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>168</vlc:id>
+				<vlc:id>160</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -1539,9 +1442,8 @@
 			<title>Pluto TV Comedy 2 (720p)</title>
 			<creator>Pluto TV Comedy 2 (720p)</creator>
 			<trackNum>1905</trackNum>
-			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>169</vlc:id>
+				<vlc:id>161</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -1551,7 +1453,7 @@
 			<trackNum>1916</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>170</vlc:id>
+				<vlc:id>162</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -1559,9 +1461,9 @@
 			<title>The New Detectives (720p)</title>
 			<creator>The New Detectives (720p)</creator>
 			<trackNum>1927</trackNum>
-			<duration>29433</duration>
+			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>171</vlc:id>
+				<vlc:id>163</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -1570,16 +1472,16 @@
 			<trackNum>1938</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>172</vlc:id>
+				<vlc:id>164</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60549e98061b5f000776866a/master.m3u8?appName=web&amp;appVersion=unknown&amp;clientTime=0&amp;deviceDNT=0&amp;deviceId=2c8ba501-e98a-11eb-a932-2f3c780ff9ff&amp;deviceMake=Chrome&amp;deviceModel=web&amp;deviceType=web&amp;deviceVersion=unknown&amp;includeExtendedEvents=false&amp;serverSideAds=false&amp;sid=e11c2399-2d50-4607-be2c-d35d72152bbe</location>
 			<title>Instant Saga (720p)</title>
 			<trackNum>1948</trackNum>
-			<duration>25233</duration>
+			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>173</vlc:id>
+				<vlc:id>165</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -1588,7 +1490,7 @@
 			<trackNum>1968</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>174</vlc:id>
+				<vlc:id>166</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -1597,16 +1499,15 @@
 			<trackNum>1978</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>175</vlc:id>
+				<vlc:id>167</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4d86f519358a00072b978e/master.m3u8?advertisingId=channel&amp;appName=rokuchannel&amp;appVersion=1.0&amp;bmodel=bm1&amp;channel_id=channel&amp;content=channel&amp;content_rating=ROKU_ADS_CONTENT_RATING&amp;content_type=livefeed&amp;coppa=false&amp;deviceDNT=1&amp;deviceId=channel&amp;deviceMake=rokuChannel&amp;deviceModel=web&amp;deviceType=rokuChannel&amp;deviceVersion=1.0&amp;embedPartner=rokuChannel&amp;genre=ROKU_ADS_CONTENT_GENRE&amp;is_lat=1&amp;platform=web&amp;rdid=channel&amp;studio_id=viacom&amp;tags=ROKU_CONTENT_TAGS</location>
 			<title>Pluto TV 90s Throwback (684p)</title>
 			<trackNum>1988</trackNum>
-			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>176</vlc:id>
+				<vlc:id>168</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -1615,7 +1516,7 @@
 			<trackNum>2007</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>177</vlc:id>
+				<vlc:id>169</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -1624,7 +1525,7 @@
 			<trackNum>2017</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>178</vlc:id>
+				<vlc:id>170</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -1633,7 +1534,7 @@
 			<trackNum>2027</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>179</vlc:id>
+				<vlc:id>171</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -1642,7 +1543,7 @@
 			<trackNum>2037</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>180</vlc:id>
+				<vlc:id>172</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -1651,16 +1552,16 @@
 			<trackNum>2047</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>181</vlc:id>
+				<vlc:id>173</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b3a4249444e05d09cc46/master.m3u8?advertisingId=&amp;appName=web&amp;appStoreUrl=&amp;appVersion=DNT&amp;app_name=&amp;architecture=&amp;buildVersion=&amp;deviceDNT=0&amp;deviceId=5812b3a4249444e05d09cc46&amp;deviceLat=&amp;deviceLon=&amp;deviceMake=web&amp;deviceModel=web&amp;deviceType=web&amp;deviceVersion=DNT&amp;includeExtendedEvents=false&amp;marketingRegion=US&amp;serverSideAds=false&amp;sid=663&amp;terminate=false&amp;userId=</location>
 			<title>Pluto TV Cars (720p)</title>
 			<trackNum>2057</trackNum>
-			<duration>25000</duration>
+			<duration>24733</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>182</vlc:id>
+				<vlc:id>174</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -1669,7 +1570,7 @@
 			<trackNum>2067</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>183</vlc:id>
+				<vlc:id>175</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -1678,7 +1579,7 @@
 			<trackNum>2077</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>184</vlc:id>
+				<vlc:id>176</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -1687,7 +1588,7 @@
 			<trackNum>2087</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>185</vlc:id>
+				<vlc:id>177</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -1696,7 +1597,7 @@
 			<trackNum>2097</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>186</vlc:id>
+				<vlc:id>178</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -1705,7 +1606,7 @@
 			<trackNum>2107</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>187</vlc:id>
+				<vlc:id>179</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -1714,7 +1615,7 @@
 			<trackNum>2117</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>188</vlc:id>
+				<vlc:id>180</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -1723,7 +1624,7 @@
 			<trackNum>2127</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>189</vlc:id>
+				<vlc:id>181</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -1732,7 +1633,7 @@
 			<trackNum>2137</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>190</vlc:id>
+				<vlc:id>182</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -1741,7 +1642,7 @@
 			<trackNum>2147</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>191</vlc:id>
+				<vlc:id>183</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -1750,7 +1651,7 @@
 			<trackNum>2157</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>192</vlc:id>
+				<vlc:id>184</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -1759,16 +1660,16 @@
 			<trackNum>2167</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>193</vlc:id>
+				<vlc:id>185</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f24662bebe0f0000767de32/master.m3u8?advertisingId=&amp;appName=web&amp;appStoreUrl=&amp;appVersion=DNT&amp;app_name=&amp;architecture=&amp;buildVersion=&amp;deviceDNT=0&amp;deviceId=5f24662bebe0f0000767de32&amp;deviceLat=&amp;deviceLon=&amp;deviceMake=web&amp;deviceModel=web&amp;deviceType=web&amp;deviceVersion=DNT&amp;includeExtendedEvents=false&amp;marketingRegion=US&amp;serverSideAds=false&amp;sid=332&amp;terminate=false&amp;userId=</location>
 			<title>Pluto TV Drama Life (720p)</title>
 			<trackNum>2177</trackNum>
-			<duration>25000</duration>
+			<duration>23600</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>194</vlc:id>
+				<vlc:id>186</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -1777,7 +1678,7 @@
 			<trackNum>2187</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>195</vlc:id>
+				<vlc:id>187</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -1786,16 +1687,16 @@
 			<trackNum>2197</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>196</vlc:id>
+				<vlc:id>188</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f77939a630f530007dde654/master.m3u8?advertisingId=channel&amp;appName=rokuchannel&amp;appVersion=1.0&amp;bmodel=bm1&amp;channel_id=channel&amp;content=channel&amp;content_rating=ROKU_ADS_CONTENT_RATING&amp;content_type=livefeed&amp;coppa=false&amp;deviceDNT=1&amp;deviceId=channel&amp;deviceMake=rokuChannel&amp;deviceModel=web&amp;deviceType=rokuChannel&amp;deviceVersion=1.0&amp;embedPartner=rokuChannel&amp;genre=ROKU_ADS_CONTENT_GENRE&amp;is_lat=1&amp;platform=web&amp;rdid=channel&amp;studio_id=viacom&amp;tags=ROKU_CONTENT_TAGS</location>
 			<title>Pluto TV Family Ties (720p)</title>
 			<trackNum>2207</trackNum>
-			<duration>25767</duration>
+			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>197</vlc:id>
+				<vlc:id>189</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -1804,7 +1705,7 @@
 			<trackNum>2217</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>198</vlc:id>
+				<vlc:id>190</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -1813,7 +1714,7 @@
 			<trackNum>2227</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>199</vlc:id>
+				<vlc:id>191</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -1822,7 +1723,7 @@
 			<trackNum>2237</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>200</vlc:id>
+				<vlc:id>192</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -1831,7 +1732,7 @@
 			<trackNum>2247</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>201</vlc:id>
+				<vlc:id>193</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -1840,7 +1741,7 @@
 			<trackNum>2257</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>202</vlc:id>
+				<vlc:id>194</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -1849,7 +1750,7 @@
 			<trackNum>2267</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>203</vlc:id>
+				<vlc:id>195</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -1858,7 +1759,7 @@
 			<trackNum>2277</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>204</vlc:id>
+				<vlc:id>196</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -1867,7 +1768,7 @@
 			<trackNum>2287</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>205</vlc:id>
+				<vlc:id>197</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -1876,7 +1777,7 @@
 			<trackNum>2297</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>206</vlc:id>
+				<vlc:id>198</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -1885,7 +1786,7 @@
 			<trackNum>2307</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>207</vlc:id>
+				<vlc:id>199</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -1894,16 +1795,15 @@
 			<trackNum>2317</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>208</vlc:id>
+				<vlc:id>200</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d9492c77ea6f99188738ff1/master.m3u8?advertisingId=channel&amp;appName=rokuchannel&amp;appVersion=1.0&amp;bmodel=bm1&amp;channel_id=channel&amp;content=channel&amp;content_rating=ROKU_ADS_CONTENT_RATING&amp;content_type=livefeed&amp;coppa=false&amp;deviceDNT=1&amp;deviceId=channel&amp;deviceMake=rokuChannel&amp;deviceModel=web&amp;deviceType=rokuChannel&amp;deviceVersion=1.0&amp;embedPartner=rokuChannel&amp;genre=ROKU_ADS_CONTENT_GENRE&amp;is_lat=1&amp;platform=web&amp;rdid=channel&amp;studio_id=viacom&amp;tags=ROKU_CONTENT_TAGS</location>
 			<title>Pluto TV Science (720p)</title>
 			<trackNum>2327</trackNum>
-			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>209</vlc:id>
+				<vlc:id>201</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -1912,16 +1812,15 @@
 			<trackNum>2337</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>210</vlc:id>
+				<vlc:id>202</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f21ea08007a49000762d349/master.m3u8?advertisingId=channel&amp;appName=rokuchannel&amp;appVersion=1.0&amp;bmodel=bm1&amp;channel_id=channel&amp;content=channel&amp;content_rating=ROKU_ADS_CONTENT_RATING&amp;content_type=livefeed&amp;coppa=false&amp;deviceDNT=1&amp;deviceId=channel&amp;deviceMake=rokuChannel&amp;deviceModel=web&amp;deviceType=rokuChannel&amp;deviceVersion=1.0&amp;embedPartner=rokuChannel&amp;genre=ROKU_ADS_CONTENT_GENRE&amp;is_lat=1&amp;platform=web&amp;rdid=channel&amp;studio_id=viacom&amp;tags=ROKU_CONTENT_TAGS</location>
 			<title>Pluto TV Smithsonian Channel Selects (720p)</title>
 			<trackNum>2347</trackNum>
-			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>211</vlc:id>
+				<vlc:id>203</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -1930,7 +1829,7 @@
 			<trackNum>2357</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>212</vlc:id>
+				<vlc:id>204</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -1939,7 +1838,7 @@
 			<trackNum>2367</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>213</vlc:id>
+				<vlc:id>205</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -1948,7 +1847,7 @@
 			<trackNum>2377</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>214</vlc:id>
+				<vlc:id>206</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -1957,16 +1856,16 @@
 			<trackNum>2387</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>215</vlc:id>
+				<vlc:id>207</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5efbd39f8c4ce900075d7698/master.m3u8?advertisingId=channel&amp;appName=rokuchannel&amp;appVersion=1.0&amp;bmodel=bm1&amp;channel_id=channel&amp;content=channel&amp;content_rating=ROKU_ADS_CONTENT_RATING&amp;content_type=livefeed&amp;coppa=false&amp;deviceDNT=1&amp;deviceId=channel&amp;deviceMake=rokuChannel&amp;deviceModel=web&amp;deviceType=rokuChannel&amp;deviceVersion=1.0&amp;embedPartner=rokuChannel&amp;genre=ROKU_ADS_CONTENT_GENRE&amp;is_lat=1&amp;platform=web&amp;rdid=channel&amp;studio_id=viacom&amp;tags=ROKU_CONTENT_TAGS</location>
 			<title>Pluto TV Star Trek (720p)</title>
 			<trackNum>2397</trackNum>
-			<duration>24867</duration>
+			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>216</vlc:id>
+				<vlc:id>208</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -1975,25 +1874,24 @@
 			<trackNum>2407</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>217</vlc:id>
+				<vlc:id>209</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f21e7b24744c60007c1f6fc/master.m3u8?advertisingId=channel&amp;appName=rokuchannel&amp;appVersion=1.0&amp;bmodel=bm1&amp;channel_id=channel&amp;content=channel&amp;content_rating=ROKU_ADS_CONTENT_RATING&amp;content_type=livefeed&amp;coppa=false&amp;deviceDNT=1&amp;deviceId=channel&amp;deviceMake=rokuChannel&amp;deviceModel=web&amp;deviceType=rokuChannel&amp;deviceVersion=1.0&amp;embedPartner=rokuChannel&amp;genre=ROKU_ADS_CONTENT_GENRE&amp;is_lat=1&amp;platform=web&amp;rdid=channel&amp;studio_id=viacom&amp;tags=ROKU_CONTENT_TAGS</location>
 			<title>Pluto TV Survivor (720p)</title>
 			<trackNum>2417</trackNum>
-			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>218</vlc:id>
+				<vlc:id>210</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd1419a3b4f4b000773ba85/master.m3u8?advertisingId=channel&amp;appName=rokuchannel&amp;appVersion=1.0&amp;bmodel=bm1&amp;channel_id=channel&amp;content=channel&amp;content_rating=ROKU_ADS_CONTENT_RATING&amp;content_type=livefeed&amp;coppa=false&amp;deviceDNT=1&amp;deviceId=channel&amp;deviceMake=rokuChannel&amp;deviceModel=web&amp;deviceType=rokuChannel&amp;deviceVersion=1.0&amp;embedPartner=rokuChannel&amp;genre=ROKU_ADS_CONTENT_GENRE&amp;is_lat=1&amp;platform=web&amp;rdid=channel&amp;studio_id=viacom&amp;tags=ROKU_CONTENT_TAGS</location>
 			<title>Pluto TV Tastemade (720p) [Not 24/7]</title>
 			<trackNum>2427</trackNum>
-			<duration>25000</duration>
+			<duration>24000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>219</vlc:id>
+				<vlc:id>211</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -2002,7 +1900,7 @@
 			<trackNum>2437</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>220</vlc:id>
+				<vlc:id>212</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -2011,7 +1909,7 @@
 			<trackNum>2447</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>221</vlc:id>
+				<vlc:id>213</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -2020,7 +1918,7 @@
 			<trackNum>2457</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>222</vlc:id>
+				<vlc:id>214</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -2029,7 +1927,7 @@
 			<trackNum>2467</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>223</vlc:id>
+				<vlc:id>215</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -2038,7 +1936,7 @@
 			<trackNum>2477</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>224</vlc:id>
+				<vlc:id>216</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -2047,7 +1945,7 @@
 			<trackNum>2487</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>225</vlc:id>
+				<vlc:id>217</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -2056,7 +1954,7 @@
 			<trackNum>2497</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>226</vlc:id>
+				<vlc:id>218</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -2065,16 +1963,16 @@
 			<trackNum>2507</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>227</vlc:id>
+				<vlc:id>219</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d695f7db53adf96b78e7ce3/master.m3u8?advertisingId=channel&amp;appName=rokuchannel&amp;appVersion=1.0&amp;bmodel=bm1&amp;channel_id=channel&amp;content=channel&amp;content_rating=ROKU_ADS_CONTENT_RATING&amp;content_type=livefeed&amp;coppa=false&amp;deviceDNT=1&amp;deviceId=channel&amp;deviceMake=rokuChannel&amp;deviceModel=web&amp;deviceType=rokuChannel&amp;deviceVersion=1.0&amp;embedPartner=rokuChannel&amp;genre=ROKU_ADS_CONTENT_GENRE&amp;is_lat=1&amp;platform=web&amp;rdid=channel&amp;studio_id=viacom&amp;tags=ROKU_CONTENT_TAGS</location>
 			<title>Pluto TV TODAY (720p) [Not 24/7]</title>
 			<trackNum>2517</trackNum>
-			<duration>25000</duration>
+			<duration>23000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>228</vlc:id>
+				<vlc:id>220</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -2083,25 +1981,23 @@
 			<trackNum>2527</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>229</vlc:id>
+				<vlc:id>221</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d40bebc5e3d2750a2239d7e/master.m3u8?advertisingId=&amp;appName=web&amp;appStoreUrl=&amp;appVersion=DNT&amp;app_name=&amp;architecture=&amp;buildVersion=&amp;deviceDNT=0&amp;deviceId=5d40bebc5e3d2750a2239d7e&amp;deviceLat=&amp;deviceLon=&amp;deviceMake=web&amp;deviceModel=web&amp;deviceType=web&amp;deviceVersion=DNT&amp;includeExtendedEvents=false&amp;marketingRegion=US&amp;serverSideAds=false&amp;sid=130&amp;terminate=false&amp;userId=</location>
 			<title>Pluto TV TV Land Drama (720p)</title>
 			<trackNum>2537</trackNum>
-			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>230</vlc:id>
+				<vlc:id>222</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c2d64ffbdf11b71587184b8/master.m3u8?advertisingId=channel&amp;appName=rokuchannel&amp;appVersion=1.0&amp;bmodel=bm1&amp;channel_id=channel&amp;content=channel&amp;content_rating=ROKU_ADS_CONTENT_RATING&amp;content_type=livefeed&amp;coppa=false&amp;deviceDNT=1&amp;deviceId=channel&amp;deviceMake=rokuChannel&amp;deviceModel=web&amp;deviceType=rokuChannel&amp;deviceVersion=1.0&amp;embedPartner=rokuChannel&amp;genre=ROKU_ADS_CONTENT_GENRE&amp;is_lat=1&amp;platform=web&amp;rdid=channel&amp;studio_id=viacom&amp;tags=ROKU_CONTENT_TAGS</location>
 			<title>Pluto TV TV Land Sitcoms (720p)</title>
 			<trackNum>2547</trackNum>
-			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>231</vlc:id>
+				<vlc:id>223</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -2110,7 +2006,7 @@
 			<trackNum>2557</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>232</vlc:id>
+				<vlc:id>224</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -2119,16 +2015,15 @@
 			<trackNum>2567</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>233</vlc:id>
+				<vlc:id>225</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5bd05b4694d45d266bc951f2/master.m3u8?advertisingId=channel&amp;appName=rokuchannel&amp;appVersion=1.0&amp;bmodel=bm1&amp;channel_id=channel&amp;content=channel&amp;content_rating=ROKU_ADS_CONTENT_RATING&amp;content_type=livefeed&amp;coppa=false&amp;deviceDNT=1&amp;deviceId=channel&amp;deviceMake=rokuChannel&amp;deviceModel=web&amp;deviceType=rokuChannel&amp;deviceVersion=1.0&amp;embedPartner=rokuChannel&amp;genre=ROKU_ADS_CONTENT_GENRE&amp;is_lat=1&amp;platform=web&amp;rdid=channel&amp;studio_id=viacom&amp;tags=ROKU_CONTENT_TAGS</location>
 			<title>Pluto TV Unsolved Mysteries (720p) [Not 24/7]</title>
 			<trackNum>2577</trackNum>
-			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>234</vlc:id>
+				<vlc:id>226</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -2137,7 +2032,7 @@
 			<trackNum>2587</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>235</vlc:id>
+				<vlc:id>227</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -2146,7 +2041,7 @@
 			<trackNum>2597</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>236</vlc:id>
+				<vlc:id>228</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -2155,7 +2050,7 @@
 			<trackNum>2607</trackNum>
 			<duration>59993</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>237</vlc:id>
+				<vlc:id>229</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -2164,25 +2059,23 @@
 			<trackNum>2617</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>238</vlc:id>
+				<vlc:id>230</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/667f3852efa2a10008e1e514/master.m3u8?deviceId=channel&amp;deviceModel=web&amp;deviceVersion=1.0&amp;appVersion=1.0&amp;deviceType=web&amp;servertSideAds=false&amp;&amp;deviceMake=github.com/inspirationlinks&amp;deviceDNT=1</location>
 			<title>GoGO Gadget</title>
 			<trackNum>2627</trackNum>
-			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>239</vlc:id>
+				<vlc:id>231</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>https://bit.ly/3FblQIm?profile=5d765786aad587cf4d0e2bf6.m3u8</location>
 			<title>Inspector Gadget</title>
 			<trackNum>2637</trackNum>
-			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>240</vlc:id>
+				<vlc:id>232</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -2191,25 +2084,25 @@
 			<trackNum>2647</trackNum>
 			<duration>60000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>241</vlc:id>
+				<vlc:id>233</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>https://d36joy6bh8xxe2.cloudfront.net/master.m3u8</location>
 			<title>Sonic the Hedgehog</title>
 			<trackNum>2657</trackNum>
-			<duration>61687</duration>
+			<duration>59958</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>242</vlc:id>
+				<vlc:id>234</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>https://zoomoo-samsungau.amagi.tv/playlist1080p.m3u8</location>
 			<title>ZooMoo</title>
 			<trackNum>2677</trackNum>
-			<duration>60000</duration>
+			<duration>54000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>243</vlc:id>
+				<vlc:id>235</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -2218,7 +2111,7 @@
 			<trackNum>2687</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>244</vlc:id>
+				<vlc:id>236</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -2227,7 +2120,7 @@
 			<trackNum>2697</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>245</vlc:id>
+				<vlc:id>237</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -2236,7 +2129,7 @@
 			<trackNum>2707</trackNum>
 			<duration>60000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>246</vlc:id>
+				<vlc:id>238</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -2245,7 +2138,7 @@
 			<trackNum>2717</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>247</vlc:id>
+				<vlc:id>239</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -2254,7 +2147,7 @@
 			<trackNum>2727</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>248</vlc:id>
+				<vlc:id>240</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -2263,7 +2156,7 @@
 			<trackNum>2737</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>249</vlc:id>
+				<vlc:id>241</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -2272,7 +2165,7 @@
 			<trackNum>2747</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>250</vlc:id>
+				<vlc:id>242</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -2281,7 +2174,7 @@
 			<trackNum>2757</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>251</vlc:id>
+				<vlc:id>243</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -2290,7 +2183,7 @@
 			<trackNum>2767</trackNum>
 			<duration>54054</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>252</vlc:id>
+				<vlc:id>244</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -2299,7 +2192,7 @@
 			<trackNum>2777</trackNum>
 			<duration>53384</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>253</vlc:id>
+				<vlc:id>245</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -2308,7 +2201,7 @@
 			<trackNum>2787</trackNum>
 			<duration>60060</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>254</vlc:id>
+				<vlc:id>246</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -2317,25 +2210,24 @@
 			<trackNum>2807</trackNum>
 			<duration>114000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>255</vlc:id>
+				<vlc:id>247</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6512ec9f3a0d700008db4f0c/master.m3u8?deviceId=channel&amp;deviceModel=web&amp;deviceVersion=1.0&amp;appVersion=1.0&amp;deviceType=web&amp;deviceMake=github.com/inspirationlinks&amp;deviceDNT=1</location>
 			<title>The Twilight Zone</title>
 			<trackNum>2817</trackNum>
-			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>256</vlc:id>
+				<vlc:id>248</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>https://bit.ly/TheWalkingDeadUniverse?profile=inspirationFreetv.m3u8</location>
 			<title>The Walking Dead Universe</title>
 			<trackNum>2826</trackNum>
-			<duration>36036</duration>
+			<duration>30128</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>257</vlc:id>
+				<vlc:id>249</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -2344,7 +2236,7 @@
 			<trackNum>2836</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>258</vlc:id>
+				<vlc:id>250</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -2353,7 +2245,7 @@
 			<trackNum>2846</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>259</vlc:id>
+				<vlc:id>251</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -2362,7 +2254,7 @@
 			<trackNum>2866</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>260</vlc:id>
+				<vlc:id>252</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -2371,7 +2263,7 @@
 			<trackNum>2876</trackNum>
 			<duration>59994</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>261</vlc:id>
+				<vlc:id>253</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -2380,16 +2272,16 @@
 			<trackNum>2886</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>262</vlc:id>
+				<vlc:id>254</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>https://5def33c73f084e11a19ca77697d6b413.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_AMCPresents/playlist.m3u8</location>
 			<title>Stories By AMC</title>
 			<trackNum>2896</trackNum>
-			<duration>36069</duration>
+			<duration>36036</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>263</vlc:id>
+				<vlc:id>255</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -2398,25 +2290,24 @@
 			<trackNum>2906</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>264</vlc:id>
+				<vlc:id>256</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>https://stitcher.pluto.tv/stitch/hls/channel/64c0d6b424ade50008bc8883/master.m3u8?deviceType=web&amp;servertSideAds=false&amp;deviceMake=safari&amp;deviceVersion=1&amp;deviceId=spencer&amp;appVersion=1&amp;deviceDNT=0&amp;deviceModel=web&amp;sid=9438b638-7b18-11ef-9825-de7fcdd69a13</location>
 			<title>U&amp;Real Heroes</title>
 			<trackNum>2916</trackNum>
-			<duration>25000</duration>
+			<duration>24000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>265</vlc:id>
+				<vlc:id>257</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Reelz.m3u8</location>
 			<title>REELZ Famous &amp; Infamous</title>
 			<trackNum>2926</trackNum>
-			<duration>60060</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>266</vlc:id>
+				<vlc:id>258</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -2425,7 +2316,7 @@
 			<trackNum>2936</trackNum>
 			<duration>60000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>267</vlc:id>
+				<vlc:id>259</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -2434,7 +2325,7 @@
 			<trackNum>2946</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>268</vlc:id>
+				<vlc:id>260</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -2443,7 +2334,7 @@
 			<trackNum>2956</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>269</vlc:id>
+				<vlc:id>261</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -2452,7 +2343,7 @@
 			<trackNum>2966</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>270</vlc:id>
+				<vlc:id>262</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -2461,16 +2352,16 @@
 			<trackNum>2976</trackNum>
 			<duration>114000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>271</vlc:id>
+				<vlc:id>263</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01515-blueskyeenterta-homefulusa-vizious/playlist.m3u8</location>
 			<title>HomeFul</title>
 			<trackNum>2986</trackNum>
-			<duration>59994</duration>
+			<duration>54021</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>272</vlc:id>
+				<vlc:id>264</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -2479,7 +2370,7 @@
 			<trackNum>2996</trackNum>
 			<duration>36036</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>273</vlc:id>
+				<vlc:id>265</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -2488,16 +2379,16 @@
 			<trackNum>3016</trackNum>
 			<duration>36036</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>274</vlc:id>
+				<vlc:id>266</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>https://is.gd/XT45y6?USBC2100009GT.m3u8</location>
 			<title>The Jack Hanna Channel</title>
 			<trackNum>3026</trackNum>
-			<duration>59993</duration>
+			<duration>57857</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>275</vlc:id>
+				<vlc:id>267</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -2506,7 +2397,7 @@
 			<trackNum>3036</trackNum>
 			<duration>36000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>276</vlc:id>
+				<vlc:id>268</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -2515,7 +2406,7 @@
 			<trackNum>3046</trackNum>
 			<duration>60060</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>277</vlc:id>
+				<vlc:id>269</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -2524,7 +2415,7 @@
 			<trackNum>3056</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>278</vlc:id>
+				<vlc:id>270</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -2533,7 +2424,7 @@
 			<trackNum>3066</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>279</vlc:id>
+				<vlc:id>271</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -2542,25 +2433,25 @@
 			<trackNum>3076</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>280</vlc:id>
+				<vlc:id>272</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5b64a245a202b3337f09e51d/master.m3u8?deviceId=channel&amp;deviceModel=web&amp;deviceVersion=1.0&amp;appVersion=1.0&amp;deviceType=web&amp;deviceMake=Revolucioniptv&amp;deviceDNT=1</location>
 			<title>Fantastic Movies</title>
 			<trackNum>3086</trackNum>
-			<duration>25000</duration>
+			<duration>25533</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>281</vlc:id>
+				<vlc:id>273</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4d8594eb979c0007706de7/master.m3u8?deviceId=channel&amp;deviceModel=web&amp;deviceVersion=1.0&amp;appVersion=1.0&amp;deviceType=web&amp;deviceMake=Revolucioniptv&amp;deviceDNT=1</location>
 			<title>Crime Movies</title>
 			<trackNum>3096</trackNum>
-			<duration>25000</duration>
+			<duration>21867</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>282</vlc:id>
+				<vlc:id>274</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -2569,7 +2460,7 @@
 			<trackNum>3106</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>283</vlc:id>
+				<vlc:id>275</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -2578,7 +2469,7 @@
 			<trackNum>3116</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>284</vlc:id>
+				<vlc:id>276</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -2587,16 +2478,16 @@
 			<trackNum>3126</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>285</vlc:id>
+				<vlc:id>277</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991337</location>
 			<title>FilmRise</title>
 			<trackNum>3136</trackNum>
-			<duration>60204</duration>
+			<duration>59958</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>286</vlc:id>
+				<vlc:id>278</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -2605,25 +2496,25 @@
 			<trackNum>3146</trackNum>
 			<duration>59999</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>287</vlc:id>
+				<vlc:id>279</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>https://d3fmqi91qduj7.cloudfront.net/11401/88814502/hls/master.m3u8?ads.xumo_channelId=88814502&amp;ads.xumo_streamId=88814502</location>
 			<title>FilmRise Action</title>
 			<trackNum>3156</trackNum>
-			<duration>59999</duration>
+			<duration>60000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>288</vlc:id>
+				<vlc:id>280</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>https://d3is52sgpnlx4c.cloudfront.net/10901/88885513/hls/master.m3u8?withResolution=true&amp;ads.xumo_channelId=88885513</location>
 			<title>FilmRise Sci-Fi</title>
 			<trackNum>3166</trackNum>
-			<duration>59958</duration>
+			<duration>59999</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>289</vlc:id>
+				<vlc:id>281</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -2632,25 +2523,25 @@
 			<trackNum>3176</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>290</vlc:id>
+				<vlc:id>282</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991312</location>
 			<title>Gravitas Movies</title>
 			<trackNum>3186</trackNum>
-			<duration>57962</duration>
+			<duration>60000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>291</vlc:id>
+				<vlc:id>283</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>https://bit.ly/3Ho1O14?profile=inspirationFreetv.m3u8</location>
 			<title>MovieSphere by Lionsgate</title>
 			<trackNum>3196</trackNum>
-			<duration>57157</duration>
+			<duration>59993</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>292</vlc:id>
+				<vlc:id>284</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -2659,7 +2550,7 @@
 			<trackNum>3206</trackNum>
 			<duration>60000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>293</vlc:id>
+				<vlc:id>285</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -2668,43 +2559,33 @@
 			<trackNum>3216</trackNum>
 			<duration>60060</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>294</vlc:id>
+				<vlc:id>286</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>https://samuelgoldwyn-films-1-us.roku.wurl.tv/playlist.m3u8</location>
 			<title>Samuel Goldwyn Films</title>
 			<trackNum>3226</trackNum>
-			<duration>36036</duration>
+			<duration>36003</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>295</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>https://filmzie-filmzie-3-us.zeasn.wurl.tv/playlist.m3u8</location>
-			<title>Filmzie Doc</title>
-			<trackNum>3236</trackNum>
-			<duration>36036</duration>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>296</vlc:id>
+				<vlc:id>287</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>https://filmzie-filmzie-1-gb.vidaa.wurl.tv/playlist.m3u8</location>
 			<title>Filmzie</title>
 			<trackNum>3246</trackNum>
-			<duration>36036</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>297</vlc:id>
+				<vlc:id>288</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>https://d1b5mlajbmvkjv.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-DistroTV/145.m3u8</location>
 			<title>24 Hour Free Movies</title>
 			<trackNum>3256</trackNum>
-			<duration>122547</duration>
+			<duration>120120</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>298</vlc:id>
+				<vlc:id>289</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -2713,25 +2594,25 @@
 			<trackNum>3266</trackNum>
 			<duration>36036</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>299</vlc:id>
+				<vlc:id>290</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>https://d3fmqi91qduj7.cloudfront.net/11401/88814514/hls/master.m3u8?ads.xumo_channelId=88814514&amp;ads.xumo_streamId=88814514</location>
 			<title>FilmRise Classic TV</title>
 			<trackNum>3276</trackNum>
-			<duration>59999</duration>
+			<duration>60000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>300</vlc:id>
+				<vlc:id>291</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>https://d3bpiam1on3fys.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yq6a0kzddrjxn/webvtt/v1/18584c3f3a2a4df8/88866005/master.m3u8?useRelativeUrls=true&amp;skipBeacons=true&amp;declaredCC1Language=en&amp;ads.device_did=%7BPSID%7D&amp;ads.device_dnt=%7BTARGETOPT%7D&amp;ads.app_domain=%7BAPP_DOMAIN%7D&amp;ads.app_name=%7BAPP_NAME%7D&amp;ads.ssai_vendor=SSSLIVE&amp;ads.service_id=CAAJ2700008QA</location>
 			<title>FilmRise Classic TV</title>
 			<trackNum>3286</trackNum>
-			<duration>59958</duration>
+			<duration>60000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>301</vlc:id>
+				<vlc:id>292</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -2740,25 +2621,24 @@
 			<trackNum>3296</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>302</vlc:id>
+				<vlc:id>293</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>https://s9host3.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config11/dist/localnow/744/hls/master/playlist.m3u8?ads.cdnhost=s9host3.localnow.api.cms.amdvids.com&amp;ads.playbackid=E2B93420-EB36-4052-B789-2AD8286E402B&amp;ads.n1=rule_id&amp;ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1714063241&amp;ads.n3=qp_content_id&amp;ads.v3=E2B93420-EB36-4052-B789-2AD8286E402B</location>
 			<title>Non-Stop &#39;90s</title>
 			<trackNum>3306</trackNum>
-			<duration>60060</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>303</vlc:id>
+				<vlc:id>294</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>https://d1e3a0zkn06gu7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-pkf1jz7l0hork/playlist.m3u8</location>
 			<title>SHOUT! TV</title>
 			<trackNum>3316</trackNum>
-			<duration>54020</duration>
+			<duration>59993</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>304</vlc:id>
+				<vlc:id>295</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -2767,25 +2647,25 @@
 			<trackNum>3326</trackNum>
 			<duration>60000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>305</vlc:id>
+				<vlc:id>296</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>https://amogonetworx-charlie-1-br.tcl.wurl.tv/playlist.m3u8</location>
 			<title>Charlie</title>
 			<trackNum>3336</trackNum>
-			<duration>35388</duration>
+			<duration>36036</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>306</vlc:id>
+				<vlc:id>297</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>https://189067eb43d2471db5d0829668d625eb.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/LocalNow_TrailersFromHell/playlist.m3u8</location>
 			<title>Trailers From Hell</title>
 			<trackNum>3346</trackNum>
-			<duration>36036</duration>
+			<duration>36003</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>307</vlc:id>
+				<vlc:id>298</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -2794,16 +2674,15 @@
 			<trackNum>3356</trackNum>
 			<duration>60000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>308</vlc:id>
+				<vlc:id>299</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5c665db3e6c01b72c4977bc2/master.m3u8?deviceId=channel&amp;deviceModel=web&amp;deviceVersion=1.0&amp;appVersion=1.0&amp;deviceType=web&amp;servertSideAds=false&amp;&amp;deviceMake=github.com/inspirationlinks&amp;deviceDNT=1</location>
 			<title>Cult Films</title>
 			<trackNum>3366</trackNum>
-			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>309</vlc:id>
+				<vlc:id>300</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -2812,34 +2691,33 @@
 			<trackNum>3376</trackNum>
 			<duration>60060</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>310</vlc:id>
+				<vlc:id>301</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>https://d2poaftv7vl6fy.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6sd5tbxf0p3kk-ssai-prd/amgholidaymovie/playlist.m3u8</location>
 			<title>Fear Zone</title>
 			<trackNum>3386</trackNum>
-			<duration>58958</duration>
+			<duration>59993</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>311</vlc:id>
+				<vlc:id>302</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>https://bit.ly/horrorterror?/master_4.m3u8</location>
 			<title>Pluto Horror</title>
 			<trackNum>3405</trackNum>
-			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>312</vlc:id>
+				<vlc:id>303</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>https://b81ea6a237a99f732a8a56c17e6e1733.7wzuvg.channel-assembly.mediatailor.us-east-1.amazonaws.com/v1/channel/Frightflix_Loop_no-link/index-frightflix-nolink.m3u8</location>
 			<title>FrightFlix</title>
 			<trackNum>3415</trackNum>
-			<duration>61440</duration>
+			<duration>62976</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>313</vlc:id>
+				<vlc:id>304</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -2848,7 +2726,7 @@
 			<trackNum>3425</trackNum>
 			<duration>60060</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>314</vlc:id>
+				<vlc:id>305</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -2857,7 +2735,7 @@
 			<trackNum>3435</trackNum>
 			<duration>60060</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>315</vlc:id>
+				<vlc:id>306</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -2866,7 +2744,7 @@
 			<trackNum>3445</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>316</vlc:id>
+				<vlc:id>307</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -2875,7 +2753,7 @@
 			<trackNum>3455</trackNum>
 			<duration>60000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>317</vlc:id>
+				<vlc:id>308</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -2884,7 +2762,7 @@
 			<trackNum>3465</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>318</vlc:id>
+				<vlc:id>309</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -2893,7 +2771,7 @@
 			<trackNum>3475</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>319</vlc:id>
+				<vlc:id>310</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -2902,7 +2780,7 @@
 			<trackNum>3485</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>320</vlc:id>
+				<vlc:id>311</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -2911,7 +2789,7 @@
 			<trackNum>3505</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>321</vlc:id>
+				<vlc:id>312</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -2920,7 +2798,7 @@
 			<trackNum>3515</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>322</vlc:id>
+				<vlc:id>313</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -2929,25 +2807,25 @@
 			<trackNum>3525</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>323</vlc:id>
+				<vlc:id>314</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>https://d3fmqi91qduj7.cloudfront.net/11401/88884548/hls/master.m3u8?ads.xumo_channelId=88884548&amp;ads.xumo_streamId=88884548</location>
 			<title>Filmrise America&#39;s Dumbest Criminals</title>
 			<trackNum>3535</trackNum>
-			<duration>61901</duration>
+			<duration>59992</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>324</vlc:id>
+				<vlc:id>315</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>https://d3fmqi91qduj7.cloudfront.net/11401/88884549/hls/master.m3u8?ads.xumo_channelId=88884549&amp;ads.xumo_streamId=88884549</location>
 			<title>World&#39;s Wildest Police Videos</title>
 			<trackNum>3545</trackNum>
-			<duration>59992</duration>
+			<duration>60026</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>325</vlc:id>
+				<vlc:id>316</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -2956,7 +2834,7 @@
 			<trackNum>3555</trackNum>
 			<duration>60000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>326</vlc:id>
+				<vlc:id>317</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -2965,34 +2843,34 @@
 			<trackNum>3565</trackNum>
 			<duration>60000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>327</vlc:id>
+				<vlc:id>318</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>https://apollo.production-public.tubi.io/live/ac-worlds-most-evil-killers.m3u8</location>
 			<title>FilmRise World’s Most Evil Killers</title>
 			<trackNum>3575</trackNum>
-			<duration>60000</duration>
+			<duration>54000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>328</vlc:id>
+				<vlc:id>319</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>https://is.gd/QiuX5Q?GBBD500002R4.m3u8</location>
 			<title>Inside Crime</title>
 			<trackNum>3585</trackNum>
-			<duration>60000</duration>
+			<duration>56920</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>329</vlc:id>
+				<vlc:id>320</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>https://sck.pm/9hkh?654930a8346f420008d3b0b8.m3u8</location>
 			<title>Oxygen True Crime Archives</title>
 			<trackNum>3595</trackNum>
-			<duration>25000</duration>
+			<duration>22000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>330</vlc:id>
+				<vlc:id>321</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -3001,7 +2879,7 @@
 			<trackNum>3605</trackNum>
 			<duration>36036</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>331</vlc:id>
+				<vlc:id>322</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -3010,16 +2888,15 @@
 			<trackNum>3615</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>332</vlc:id>
+				<vlc:id>323</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63e36b374e83e70008987c58/master.m3u8?deviceId=channel&amp;deviceModel=web&amp;deviceVersion=1.0&amp;appVersion=1.0&amp;deviceType=web&amp;servertSideAds=false&amp;&amp;deviceMake=github.com/inspirationlinks&amp;deviceDNT=1</location>
 			<title>Aftershock Real Crime</title>
 			<trackNum>3625</trackNum>
-			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>333</vlc:id>
+				<vlc:id>324</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -3028,7 +2905,7 @@
 			<trackNum>3635</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>334</vlc:id>
+				<vlc:id>325</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -3037,7 +2914,7 @@
 			<trackNum>3645</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>335</vlc:id>
+				<vlc:id>326</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -3046,7 +2923,7 @@
 			<trackNum>3655</trackNum>
 			<duration>60060</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>336</vlc:id>
+				<vlc:id>327</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -3055,16 +2932,15 @@
 			<trackNum>3665</trackNum>
 			<duration>60060</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>337</vlc:id>
+				<vlc:id>328</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>https://is.gd/6YJJ6Q?62fb9844db5a4a0007ebc2a3.m3u8</location>
 			<title>Beyond History</title>
 			<trackNum>3675</trackNum>
-			<duration>25433</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>338</vlc:id>
+				<vlc:id>329</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -3073,7 +2949,7 @@
 			<trackNum>3685</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>339</vlc:id>
+				<vlc:id>330</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -3082,16 +2958,16 @@
 			<trackNum>3705</trackNum>
 			<duration>100000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>340</vlc:id>
+				<vlc:id>331</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>https://bit.ly/3Ocb6Rn?profile=GBBA2200005ZA.m3u8</location>
 			<title>History Hit</title>
 			<trackNum>3715</trackNum>
-			<duration>59480</duration>
+			<duration>60000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>341</vlc:id>
+				<vlc:id>332</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -3100,7 +2976,7 @@
 			<trackNum>3725</trackNum>
 			<duration>36036</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>342</vlc:id>
+				<vlc:id>333</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -3109,7 +2985,7 @@
 			<trackNum>3735</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>343</vlc:id>
+				<vlc:id>334</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -3118,7 +2994,7 @@
 			<trackNum>3745</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>344</vlc:id>
+				<vlc:id>335</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -3127,16 +3003,15 @@
 			<trackNum>3755</trackNum>
 			<duration>53384</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>345</vlc:id>
+				<vlc:id>336</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>https://is.gd/nIrRFD?650b69cfd1f20c0008586bac.m3u8</location>
 			<title>Earthday 365</title>
 			<trackNum>3765</trackNum>
-			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>346</vlc:id>
+				<vlc:id>337</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -3145,7 +3020,7 @@
 			<trackNum>3775</trackNum>
 			<duration>36036</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>347</vlc:id>
+				<vlc:id>338</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -3154,16 +3029,16 @@
 			<trackNum>3785</trackNum>
 			<duration>36036</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>348</vlc:id>
+				<vlc:id>339</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>https://bit.ly/AnimalsPluto?.m3u8</location>
 			<title>Animals tv</title>
 			<trackNum>3795</trackNum>
-			<duration>22633</duration>
+			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>349</vlc:id>
+				<vlc:id>340</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -3172,7 +3047,7 @@
 			<trackNum>3805</trackNum>
 			<duration>36036</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>350</vlc:id>
+				<vlc:id>341</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -3181,16 +3056,16 @@
 			<trackNum>3815</trackNum>
 			<duration>54054</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>351</vlc:id>
+				<vlc:id>342</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991358</location>
 			<title>Waypoint TV</title>
 			<trackNum>3825</trackNum>
-			<duration>59993</duration>
+			<duration>56322</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>352</vlc:id>
+				<vlc:id>343</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -3199,7 +3074,7 @@
 			<trackNum>3835</trackNum>
 			<duration>19200</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>353</vlc:id>
+				<vlc:id>344</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -3208,16 +3083,16 @@
 			<trackNum>3845</trackNum>
 			<duration>60000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>354</vlc:id>
+				<vlc:id>345</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>http://212.102.60.231/TSN_1/index.m3u8</location>
 			<title>TSN 1</title>
 			<trackNum>3855</trackNum>
-			<duration>22334</duration>
+			<duration>24000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>355</vlc:id>
+				<vlc:id>346</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -3226,7 +3101,7 @@
 			<trackNum>3865</trackNum>
 			<duration>24000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>356</vlc:id>
+				<vlc:id>347</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -3235,7 +3110,7 @@
 			<trackNum>3874</trackNum>
 			<duration>24000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>357</vlc:id>
+				<vlc:id>348</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -3244,7 +3119,7 @@
 			<trackNum>3884</trackNum>
 			<duration>24000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>358</vlc:id>
+				<vlc:id>349</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -3253,7 +3128,7 @@
 			<trackNum>3894</trackNum>
 			<duration>24000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>359</vlc:id>
+				<vlc:id>350</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -3261,7 +3136,7 @@
 			<title>Eurosport 1</title>
 			<trackNum>3904</trackNum>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>360</vlc:id>
+				<vlc:id>351</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -3269,16 +3144,7 @@
 			<title>Eurosport 2</title>
 			<trackNum>3913</trackNum>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>361</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>https://is.gd/Kby9TR?BeinSportXtra.m3u8</location>
-			<title>Bein SportXtra</title>
-			<trackNum>3922</trackNum>
-			<duration>25000</duration>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>362</vlc:id>
+				<vlc:id>352</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -3287,7 +3153,7 @@
 			<trackNum>3932</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>363</vlc:id>
+				<vlc:id>353</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -3296,16 +3162,7 @@
 			<trackNum>3942</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>364</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/667c0111fc3a4600087283c2/master.m3u8?deviceId=channel&amp;deviceModel=web&amp;deviceVersion=1.0&amp;appVersion=1.0&amp;deviceType=web&amp;deviceMake=github.com/inspirationlinks&amp;deviceDNT=1</location>
-			<title>European League of Football</title>
-			<trackNum>3951</trackNum>
-			<duration>25000</duration>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>365</vlc:id>
+				<vlc:id>354</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -3314,7 +3171,7 @@
 			<trackNum>3960</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>366</vlc:id>
+				<vlc:id>355</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -3323,16 +3180,16 @@
 			<trackNum>3970</trackNum>
 			<duration>60060</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>367</vlc:id>
+				<vlc:id>356</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>https://bit.ly/3u6nprG?USBA300034DB.m3u8</location>
 			<title>Pac 12 Insider</title>
 			<trackNum>3980</trackNum>
-			<duration>54021</duration>
+			<duration>59994</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>368</vlc:id>
+				<vlc:id>357</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -3341,16 +3198,15 @@
 			<trackNum>3990</trackNum>
 			<duration>36002</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>369</vlc:id>
+				<vlc:id>358</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Dazn-Womens-Football.m3u8</location>
 			<title>DAZN Womens Football</title>
 			<trackNum>4000</trackNum>
-			<duration>60000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>370</vlc:id>
+				<vlc:id>359</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -3359,7 +3215,7 @@
 			<trackNum>4010</trackNum>
 			<duration>60060</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>371</vlc:id>
+				<vlc:id>360</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -3368,16 +3224,16 @@
 			<trackNum>4020</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>372</vlc:id>
+				<vlc:id>361</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>https://dltcbyrjz4q6b.cloudfront.net/scheduler/scheduleMaster/418.m3u8</location>
 			<title>Cricket Gold</title>
 			<trackNum>4030</trackNum>
-			<duration>120053</duration>
+			<duration>122222</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>373</vlc:id>
+				<vlc:id>362</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -3386,16 +3242,16 @@
 			<trackNum>4040</trackNum>
 			<duration>40000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>374</vlc:id>
+				<vlc:id>363</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>https://tennischanneldeu-rakuten.amagi.tv/playlist.m3u8</location>
 			<title>Tennis Channel Internacional</title>
 			<trackNum>4050</trackNum>
-			<duration>60000</duration>
+			<duration>54000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>375</vlc:id>
+				<vlc:id>364</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -3404,7 +3260,7 @@
 			<trackNum>4060</trackNum>
 			<duration>66733</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>376</vlc:id>
+				<vlc:id>365</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -3413,16 +3269,16 @@
 			<trackNum>4070</trackNum>
 			<duration>60000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>377</vlc:id>
+				<vlc:id>366</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>https://bit.ly/3ts1jzy?profile=inspirationFreetv.m3u8</location>
 			<title>Nitro Circus tv</title>
 			<trackNum>4080</trackNum>
-			<duration>54054</duration>
+			<duration>55556</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>378</vlc:id>
+				<vlc:id>367</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -3431,7 +3287,7 @@
 			<trackNum>4090</trackNum>
 			<duration>30000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>379</vlc:id>
+				<vlc:id>368</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -3440,16 +3296,16 @@
 			<trackNum>4100</trackNum>
 			<duration>120120</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>380</vlc:id>
+				<vlc:id>369</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>https://amg13231-actve-amg13231c4-samsung-nz-3093.playouts.now.amagi.tv/playlist/amg13231-actvefast-surfer-samsungnz/playlist.m3u8</location>
 			<title>Surfer</title>
 			<trackNum>4110</trackNum>
-			<duration>58058</duration>
+			<duration>54054</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>381</vlc:id>
+				<vlc:id>370</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -3458,34 +3314,34 @@
 			<trackNum>4120</trackNum>
 			<duration>60000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>382</vlc:id>
+				<vlc:id>371</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8</location>
 			<title>MU tv</title>
 			<trackNum>4140</trackNum>
-			<duration>19200</duration>
+			<duration>24000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>383</vlc:id>
+				<vlc:id>372</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>http://212.102.60.231/HBO/index.m3u8</location>
 			<title>Music TV</title>
 			<trackNum>4150</trackNum>
-			<duration>24825</duration>
+			<duration>24024</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>384</vlc:id>
+				<vlc:id>373</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>https://xlpore-samsungus.amagi.tv/playlist.m3u8</location>
 			<title>Explore tv</title>
 			<trackNum>4160</trackNum>
-			<duration>54020</duration>
+			<duration>55388</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>385</vlc:id>
+				<vlc:id>374</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -3494,16 +3350,15 @@
 			<trackNum>4170</trackNum>
 			<duration>24000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>386</vlc:id>
+				<vlc:id>375</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8</location>
 			<title>Redbul TV</title>
 			<trackNum>4180</trackNum>
-			<duration>180000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>387</vlc:id>
+				<vlc:id>376</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -3512,7 +3367,7 @@
 			<trackNum>4190</trackNum>
 			<duration>59994</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>388</vlc:id>
+				<vlc:id>377</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -3521,7 +3376,7 @@
 			<trackNum>4200</trackNum>
 			<duration>60000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>389</vlc:id>
+				<vlc:id>378</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -3530,25 +3385,25 @@
 			<trackNum>4210</trackNum>
 			<duration>60000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>390</vlc:id>
+				<vlc:id>379</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/manifest.m3u8</location>
 			<title>Travel TV</title>
 			<trackNum>4220</trackNum>
-			<duration>60000</duration>
+			<duration>60060</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>391</vlc:id>
+				<vlc:id>380</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>http://xlpore-samsungus.amagi.tv/playlist.m3u8</location>
 			<title>FOX SPORTS 3 (VN)</title>
 			<trackNum>4230</trackNum>
-			<duration>54020</duration>
+			<duration>55388</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>392</vlc:id>
+				<vlc:id>381</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -3557,7 +3412,7 @@
 			<trackNum>4250</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>393</vlc:id>
+				<vlc:id>382</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -3566,52 +3421,52 @@
 			<trackNum>4260</trackNum>
 			<duration>20020</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>394</vlc:id>
+				<vlc:id>383</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8</location>
 			<title>AMC</title>
 			<trackNum>4270</trackNum>
-			<duration>25224</duration>
+			<duration>22189</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>395</vlc:id>
+				<vlc:id>384</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>http://fl3.moveonjoy.com/American_Heroes_Channel/index.m3u8</location>
 			<title>American Heroes Channel</title>
 			<trackNum>4280</trackNum>
-			<duration>23023</duration>
+			<duration>20020</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>396</vlc:id>
+				<vlc:id>385</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>http://fl3.moveonjoy.com/Aspire/index.m3u8</location>
 			<title>Aspire</title>
 			<trackNum>4290</trackNum>
-			<duration>22389</duration>
+			<duration>24156</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>397</vlc:id>
+				<vlc:id>386</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>http://fl3.moveonjoy.com/BET_Jams/index.m3u8</location>
 			<title>BET Jams</title>
 			<trackNum>4300</trackNum>
-			<duration>22021</duration>
+			<duration>24024</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>398</vlc:id>
+				<vlc:id>387</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>http://fl3.moveonjoy.com/BOOMERANG/index.m3u8</location>
 			<title>Boomerang</title>
 			<trackNum>4320</trackNum>
-			<duration>24024</duration>
+			<duration>22022</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>399</vlc:id>
+				<vlc:id>388</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -3620,7 +3475,7 @@
 			<trackNum>4330</trackNum>
 			<duration>24024</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>400</vlc:id>
+				<vlc:id>389</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -3629,7 +3484,7 @@
 			<trackNum>4340</trackNum>
 			<duration>24024</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>401</vlc:id>
+				<vlc:id>390</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -3638,7 +3493,7 @@
 			<trackNum>4350</trackNum>
 			<duration>20020</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>402</vlc:id>
+				<vlc:id>391</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -3647,7 +3502,7 @@
 			<trackNum>4380</trackNum>
 			<duration>24024</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>403</vlc:id>
+				<vlc:id>392</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -3656,16 +3511,16 @@
 			<trackNum>4390</trackNum>
 			<duration>20020</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>404</vlc:id>
+				<vlc:id>393</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>http://fl3.moveonjoy.com/COOKING_CHANNEL/index.m3u8</location>
 			<title>COOKING</title>
 			<trackNum>4400</trackNum>
-			<duration>22672</duration>
+			<duration>20020</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>405</vlc:id>
+				<vlc:id>394</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -3674,25 +3529,25 @@
 			<trackNum>4420</trackNum>
 			<duration>20020</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>406</vlc:id>
+				<vlc:id>395</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>http://fl3.moveonjoy.com/Destination_America/index.m3u8</location>
 			<title>Destination America</title>
 			<trackNum>4430</trackNum>
-			<duration>20020</duration>
+			<duration>20253</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>407</vlc:id>
+				<vlc:id>396</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8</location>
 			<title>Discovery Channel</title>
 			<trackNum>4440</trackNum>
-			<duration>24024</duration>
+			<duration>20020</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>408</vlc:id>
+				<vlc:id>397</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -3701,25 +3556,7 @@
 			<trackNum>4450</trackNum>
 			<duration>32000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>409</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>http://fl2.moveonjoy.com/DISNEY_XD/index.m3u8</location>
-			<title>DISNEY XD</title>
-			<trackNum>4460</trackNum>
-			<duration>24157</duration>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>410</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>http://fl2.moveonjoy.com/ESPN_2/index.m3u8</location>
-			<title>ESPN 2</title>
-			<trackNum>4470</trackNum>
-			<duration>24024</duration>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>411</vlc:id>
+				<vlc:id>398</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -3728,43 +3565,25 @@
 			<trackNum>4480</trackNum>
 			<duration>20020</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>412</vlc:id>
+				<vlc:id>399</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>http://fl1.moveonjoy.com/FOX_SOUL/index.m3u8</location>
 			<title>FOX SOUL</title>
 			<trackNum>4490</trackNum>
-			<duration>22189</duration>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>413</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>http://fl2.moveonjoy.com/FREE_FORM/index.m3u8</location>
-			<title>Freeform</title>
-			<trackNum>4500</trackNum>
 			<duration>20020</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>414</vlc:id>
+				<vlc:id>400</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>http://fl1.moveonjoy.com/LOVE_NATURE/index.m3u8</location>
 			<title>LOVE NATURE</title>
 			<trackNum>4530</trackNum>
-			<duration>24024</duration>
+			<duration>23991</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>415</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>http://fl2.moveonjoy.com/MOTOR_TREND/index.m3u8</location>
-			<title>MotorTrend</title>
-			<trackNum>4540</trackNum>
-			<duration>22000</duration>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>416</vlc:id>
+				<vlc:id>401</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -3773,34 +3592,16 @@
 			<trackNum>4550</trackNum>
 			<duration>20020</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>417</vlc:id>
+				<vlc:id>402</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>http://fl1.moveonjoy.com/MUCH/index.m3u8</location>
 			<title>MUCH</title>
 			<trackNum>4560</trackNum>
-			<duration>20988</duration>
+			<duration>24024</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>418</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>http://fl1.moveonjoy.com/NBC_EAST/index.m3u8</location>
-			<title>NBC</title>
-			<trackNum>4570</trackNum>
-			<duration>22022</duration>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>419</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>http://fl2.moveonjoy.com/NFL_5/index.m3u8</location>
-			<title>NFL 5</title>
-			<trackNum>4580</trackNum>
-			<duration>20020</duration>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>420</vlc:id>
+				<vlc:id>403</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -3809,25 +3610,25 @@
 			<trackNum>4600</trackNum>
 			<duration>20020</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>421</vlc:id>
+				<vlc:id>404</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>http://fl3.moveonjoy.com/Ovation/index.m3u8</location>
 			<title>Ovation</title>
 			<trackNum>4610</trackNum>
-			<duration>22522</duration>
+			<duration>24024</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>422</vlc:id>
+				<vlc:id>405</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>http://fl3.moveonjoy.com/Pursuit_Channel/index.m3u8</location>
 			<title>Pursuit Channel</title>
 			<trackNum>4620</trackNum>
-			<duration>22789</duration>
+			<duration>24057</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>423</vlc:id>
+				<vlc:id>406</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -3836,142 +3637,79 @@
 			<trackNum>4630</trackNum>
 			<duration>20020</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>424</vlc:id>
+				<vlc:id>407</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>http://fl5.moveonjoy.com/STARZ_ENCORE_CLASSIC/index.m3u8</location>
 			<title>STARZ ENCORE CLASSIC</title>
 			<trackNum>4640</trackNum>
-			<duration>24024</duration>
+			<duration>20020</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>425</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>http://fl1.moveonjoy.com/TBS/index.m3u8</location>
-			<title>TBS</title>
-			<trackNum>4650</trackNum>
-			<duration>24024</duration>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>426</vlc:id>
+				<vlc:id>408</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>http://fl1.moveonjoy.com/TCM/index.m3u8</location>
 			<title>TCM</title>
 			<trackNum>4660</trackNum>
-			<duration>20020</duration>
+			<duration>25359</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>427</vlc:id>
+				<vlc:id>409</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>http://fl5.moveonjoy.com/TSN_1/index.m3u8</location>
 			<title>TSN 1</title>
 			<trackNum>4670</trackNum>
-			<duration>23084</duration>
+			<duration>24000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>428</vlc:id>
+				<vlc:id>410</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>http://fl5.moveonjoy.com/TSN_2/index.m3u8</location>
 			<title>TSN 2</title>
 			<trackNum>4680</trackNum>
-			<duration>24000</duration>
+			<duration>22000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>429</vlc:id>
+				<vlc:id>411</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>http://fl5.moveonjoy.com/TSN_3/index.m3u8</location>
 			<title>TSN 3</title>
 			<trackNum>4690</trackNum>
-			<duration>24000</duration>
+			<duration>23983</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>430</vlc:id>
+				<vlc:id>412</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>http://fl5.moveonjoy.com/TSN_4/index.m3u8</location>
 			<title>TSN 4</title>
 			<trackNum>4700</trackNum>
-			<duration>22216</duration>
+			<duration>24000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>431</vlc:id>
+				<vlc:id>413</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>http://fl5.moveonjoy.com/TSN_5/index.m3u8</location>
 			<title>TSN 5</title>
 			<trackNum>4710</trackNum>
-			<duration>21934</duration>
+			<duration>24000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>432</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>http://fl1.moveonjoy.com/WE_TV/index.m3u8</location>
-			<title>WeTV</title>
-			<trackNum>4720</trackNum>
-			<duration>24024</duration>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>433</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>http://135.181.115.81:8000/play/a03i/index.m3u8?token=livetv</location>
-			<title> Animal Planet (EDTV)</title>
-			<trackNum>4730</trackNum>
-			<duration>11680</duration>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>434</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>http://135.181.115.81:8000/play/a03w/index.m3u8?token=livetv</location>
-			<title> National Geographic (EDTV)</title>
-			<trackNum>4739</trackNum>
-			<duration>11840</duration>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>435</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>http://135.181.115.81:8000/play/a03v/index.m3u8?token=livetv</location>
-			<title> Nat Geo Wild (EDTV)</title>
-			<trackNum>4748</trackNum>
-			<duration>11840</duration>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>436</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>http://135.181.115.81:8000/play/a01j/index.m3u8?token=livetv</location>
-			<title> Viju NATURE (EDTV)</title>
-			<trackNum>4757</trackNum>
-			<duration>11680</duration>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>437</vlc:id>
+				<vlc:id>414</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>http://fl5.moveonjoy.com/STARZ_ENCORE_CLASSIC/index.m3u8</location>
 			<title> STARZ ENCORE CLASSIC (HD)</title>
 			<trackNum>4865</trackNum>
-			<duration>24024</duration>
+			<duration>20020</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>438</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>http://fl1.moveonjoy.com/TBS/index.m3u8</location>
-			<title> TBS (HD ready)</title>
-			<trackNum>4874</trackNum>
-			<duration>24308</duration>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>439</vlc:id>
+				<vlc:id>415</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -3980,43 +3718,23 @@
 			<trackNum>4883</trackNum>
 			<duration>59994</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>440</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>https://v4.thetvapp.to/hls/NickelodeonEast/index.m3u8</location>
-			<title> Nickelodeon East (HD ready)</title>
-			<trackNum>4892</trackNum>
-			<duration>40039</duration>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>441</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8</location>
-			<title>BBC News Asia Pacific (720p)</title>
-			<trackNum>4910</trackNum>
-			<duration>39600</duration>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>442</vlc:id>
+				<vlc:id>416</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>http://37.27.111.214:8080/live/27/hls.m3u8</location>
 			<title>HISTORY</title>
 			<trackNum>4937</trackNum>
-			<duration>76300</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>443</vlc:id>
+				<vlc:id>417</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>http://50.7.234.10:8278/cnbc_twn/playlist.m3u8?tid=MA5A9732497897324978&amp;ct=19225&amp;tsum=268e38e98d745f914c001c83d98b4b60</location>
 			<title>CNBC</title>
 			<trackNum>4946</trackNum>
-			<duration>40000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>444</vlc:id>
+				<vlc:id>418</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -4025,16 +3743,16 @@
 			<trackNum>4963</trackNum>
 			<duration>60000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>445</vlc:id>
+				<vlc:id>419</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>http://50.7.234.10:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&amp;ct=18392&amp;tsum=995709f1100cf1b07964790160bfb4ee</location>
 			<title>HBO</title>
 			<trackNum>4972</trackNum>
-			<duration>40138</duration>
+			<duration>39724</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>446</vlc:id>
+				<vlc:id>420</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -4043,16 +3761,16 @@
 			<trackNum>4990</trackNum>
 			<duration>49550</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>447</vlc:id>
+				<vlc:id>421</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8</location>
 			<title>DiscoverFilm</title>
 			<trackNum>4998</trackNum>
-			<duration>35702</duration>
+			<duration>36003</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>448</vlc:id>
+				<vlc:id>422</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -4061,7 +3779,7 @@
 			<trackNum>5007</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>449</vlc:id>
+				<vlc:id>423</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -4070,15 +3788,16 @@
 			<trackNum>5016</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>450</vlc:id>
+				<vlc:id>424</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6176f39e709f160007ec61c3/master.m3u8?appName=web&amp;appVersion=unknown&amp;clientTime=0&amp;deviceDNT=0&amp;deviceId=6c263250-30d3-11ef-9cf5-e9ddff8ff496&amp;deviceMake=Chrome&amp;deviceModel=web&amp;deviceType=web&amp;deviceVersion=unknown&amp;includeExtendedEvents=false&amp;serverSideAds=false&amp;sid=6c0b95c9-8da8-4149-8f7a-ba568202266f</location>
 			<title>48 Hours</title>
 			<trackNum>5025</trackNum>
+			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>451</vlc:id>
+				<vlc:id>425</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -4087,7 +3806,7 @@
 			<trackNum>5034</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>452</vlc:id>
+				<vlc:id>426</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -4096,7 +3815,7 @@
 			<trackNum>5043</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>453</vlc:id>
+				<vlc:id>427</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -4105,7 +3824,7 @@
 			<trackNum>5052</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>454</vlc:id>
+				<vlc:id>428</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -4114,24 +3833,25 @@
 			<trackNum>5061</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>455</vlc:id>
+				<vlc:id>429</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>https://d85lu9l3axp7b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-49b4g6287mnav/playlist.m3u8</location>
 			<title>AMC All Weddings</title>
 			<trackNum>5078</trackNum>
-			<duration>120120</duration>
+			<duration>119624</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>456</vlc:id>
+				<vlc:id>430</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65492fc7056b9700088560b5/master.m3u8?appName=web&amp;appVersion=unknown&amp;clientTime=0&amp;deviceDNT=0&amp;deviceId=6c26a780-30d3-11ef-9cf5-e9ddff8ff496&amp;deviceMake=Chrome&amp;deviceModel=web&amp;deviceType=web&amp;deviceVersion=unknown&amp;includeExtendedEvents=false&amp;serverSideAds=false&amp;sid=3ce66776-1850-472a-aae6-67709c1b0532</location>
 			<title>American Crimes</title>
 			<trackNum>5087</trackNum>
+			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>457</vlc:id>
+				<vlc:id>431</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -4140,7 +3860,7 @@
 			<trackNum>5105</trackNum>
 			<duration>60060</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>458</vlc:id>
+				<vlc:id>432</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -4149,7 +3869,7 @@
 			<trackNum>5123</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>459</vlc:id>
+				<vlc:id>433</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -4158,7 +3878,7 @@
 			<trackNum>5132</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>460</vlc:id>
+				<vlc:id>434</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -4167,7 +3887,7 @@
 			<trackNum>5141</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>461</vlc:id>
+				<vlc:id>435</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -4176,7 +3896,7 @@
 			<trackNum>5150</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>462</vlc:id>
+				<vlc:id>436</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -4185,25 +3905,25 @@
 			<trackNum>5159</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>463</vlc:id>
+				<vlc:id>437</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61326275b3c86a00078e4833/master.m3u8?appName=web&amp;appVersion=unknown&amp;clientTime=0&amp;deviceDNT=0&amp;deviceId=6c2743c0-30d3-11ef-9cf5-e9ddff8ff496&amp;deviceMake=Chrome&amp;deviceModel=web&amp;deviceType=web&amp;deviceVersion=unknown&amp;includeExtendedEvents=false&amp;serverSideAds=false&amp;sid=16224f18-2a57-4fa3-bf6a-994524fcf480</location>
 			<title>Black Throwbacks</title>
 			<trackNum>5168</trackNum>
-			<duration>25000</duration>
+			<duration>22867</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>464</vlc:id>
+				<vlc:id>438</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/66439ee041af640008ccaa98/master.m3u8?appName=web&amp;appVersion=unknown&amp;clientTime=0&amp;deviceDNT=0&amp;deviceId=6c2743c2-30d3-11ef-9cf5-e9ddff8ff496&amp;deviceMake=Chrome&amp;deviceModel=web&amp;deviceType=web&amp;deviceVersion=unknown&amp;includeExtendedEvents=false&amp;serverSideAds=false&amp;sid=c7f3cba7-ccb6-4cd5-928e-0b45fd0f9223</location>
 			<title>Black Visionaries</title>
 			<trackNum>5177</trackNum>
-			<duration>26233</duration>
+			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>465</vlc:id>
+				<vlc:id>439</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -4212,7 +3932,7 @@
 			<trackNum>5186</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>466</vlc:id>
+				<vlc:id>440</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -4221,7 +3941,7 @@
 			<trackNum>5195</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>467</vlc:id>
+				<vlc:id>441</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -4230,7 +3950,7 @@
 			<trackNum>5204</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>468</vlc:id>
+				<vlc:id>442</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -4239,7 +3959,7 @@
 			<trackNum>5213</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>469</vlc:id>
+				<vlc:id>443</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -4248,7 +3968,7 @@
 			<trackNum>5222</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>470</vlc:id>
+				<vlc:id>444</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -4257,16 +3977,16 @@
 			<trackNum>5231</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>471</vlc:id>
+				<vlc:id>445</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/oakland/G0219_002/playlist.m3u8</location>
 			<title>City of Oakland (KTOP) (480p)</title>
 			<trackNum>5267</trackNum>
-			<duration>29996</duration>
+			<duration>29997</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>472</vlc:id>
+				<vlc:id>446</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -4275,16 +3995,16 @@
 			<trackNum>5276</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>473</vlc:id>
+				<vlc:id>447</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f15e32b297f96000768f928/master.m3u8?appName=web&amp;appVersion=unknown&amp;clientTime=0&amp;deviceDNT=0&amp;deviceId=6c27e004-30d3-11ef-9cf5-e9ddff8ff496&amp;deviceMake=Chrome&amp;deviceModel=web&amp;deviceType=web&amp;deviceVersion=unknown&amp;includeExtendedEvents=false&amp;serverSideAds=false&amp;sid=518ef377-f53a-4652-8bcc-2dc596ce4106</location>
 			<title>Classic TV Comedy</title>
 			<trackNum>5285</trackNum>
-			<duration>25000</duration>
+			<duration>26500</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>474</vlc:id>
+				<vlc:id>448</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -4293,7 +4013,7 @@
 			<trackNum>5294</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>475</vlc:id>
+				<vlc:id>449</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -4302,7 +4022,7 @@
 			<trackNum>5303</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>476</vlc:id>
+				<vlc:id>450</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -4311,16 +4031,7 @@
 			<trackNum>5312</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>477</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dcc42446750e200093b15e2/master.m3u8?appName=web&amp;appVersion=unknown&amp;clientTime=0&amp;deviceDNT=0&amp;deviceId=6c280713-30d3-11ef-9cf5-e9ddff8ff496&amp;deviceMake=Chrome&amp;deviceModel=web&amp;deviceType=web&amp;deviceVersion=unknown&amp;includeExtendedEvents=false&amp;serverSideAds=false&amp;sid=18f21bf8-bf5a-4fbe-983b-63de276bd585</location>
-			<title>CMT Pluto TV</title>
-			<trackNum>5321</trackNum>
-			<duration>25000</duration>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>478</vlc:id>
+				<vlc:id>451</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -4329,16 +4040,16 @@
 			<trackNum>5330</trackNum>
 			<duration>20020</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>479</vlc:id>
+				<vlc:id>452</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>https://fl5.moveonjoy.com/DISNEY_XD/index.m3u8</location>
 			<title>Disney XD (720p)</title>
 			<trackNum>5339</trackNum>
-			<duration>24024</duration>
+			<duration>20020</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>480</vlc:id>
+				<vlc:id>453</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -4347,7 +4058,7 @@
 			<trackNum>5357</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>481</vlc:id>
+				<vlc:id>454</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -4356,25 +4067,25 @@
 			<trackNum>5366</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>482</vlc:id>
+				<vlc:id>455</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>http://fl5.moveonjoy.com/FX/index.m3u8</location>
 			<title>FX East (720p)</title>
 			<trackNum>5375</trackNum>
-			<duration>24590</duration>
+			<duration>20020</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>483</vlc:id>
+				<vlc:id>456</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>http://fl5.moveonjoy.com/FXX/index.m3u8</location>
 			<title>FXX East (720p)</title>
 			<trackNum>5384</trackNum>
-			<duration>23840</duration>
+			<duration>24024</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>484</vlc:id>
+				<vlc:id>457</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -4383,7 +4094,7 @@
 			<trackNum>5393</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>485</vlc:id>
+				<vlc:id>458</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -4392,7 +4103,7 @@
 			<trackNum>5402</trackNum>
 			<duration>20020</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>486</vlc:id>
+				<vlc:id>459</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -4401,25 +4112,15 @@
 			<trackNum>5411</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>487</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>https://d76toswjmqqzm.cloudfront.net/playlist.m3u8</location>
-			<title>Heartland</title>
-			<trackNum>5420</trackNum>
-			<duration>55722</duration>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>488</vlc:id>
+				<vlc:id>460</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6532e6a9bdf3cf000887ab29/master.m3u8?appName=web&amp;appVersion=unknown&amp;clientTime=0&amp;deviceDNT=0&amp;deviceId=6c29dbd6-30d3-11ef-9cf5-e9ddff8ff496&amp;deviceMake=Chrome&amp;deviceModel=web&amp;deviceType=web&amp;deviceVersion=unknown&amp;includeExtendedEvents=false&amp;serverSideAds=false&amp;sid=7af25055-d39c-4f5a-b06f-b3a755e8b993</location>
 			<title>More True Crime</title>
 			<trackNum>5438</trackNum>
-			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>489</vlc:id>
+				<vlc:id>461</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -4428,7 +4129,7 @@
 			<trackNum>5447</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>490</vlc:id>
+				<vlc:id>462</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -4437,7 +4138,7 @@
 			<trackNum>5456</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>491</vlc:id>
+				<vlc:id>463</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -4446,7 +4147,7 @@
 			<trackNum>5465</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>492</vlc:id>
+				<vlc:id>464</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -4455,7 +4156,7 @@
 			<trackNum>5474</trackNum>
 			<duration>114000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>493</vlc:id>
+				<vlc:id>465</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -4464,7 +4165,7 @@
 			<trackNum>5492</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>494</vlc:id>
+				<vlc:id>466</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -4473,7 +4174,7 @@
 			<trackNum>5510</trackNum>
 			<duration>20020</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>495</vlc:id>
+				<vlc:id>467</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -4482,7 +4183,7 @@
 			<trackNum>5519</trackNum>
 			<duration>105105</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>496</vlc:id>
+				<vlc:id>468</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -4491,7 +4192,7 @@
 			<trackNum>5528</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>497</vlc:id>
+				<vlc:id>469</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -4500,7 +4201,7 @@
 			<trackNum>5537</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>498</vlc:id>
+				<vlc:id>470</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -4509,7 +4210,7 @@
 			<trackNum>5546</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>499</vlc:id>
+				<vlc:id>471</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -4518,7 +4219,7 @@
 			<trackNum>5555</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>500</vlc:id>
+				<vlc:id>472</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -4527,7 +4228,7 @@
 			<trackNum>5591</trackNum>
 			<duration>18018</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>501</vlc:id>
+				<vlc:id>473</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -4536,25 +4237,15 @@
 			<trackNum>5600</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>502</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-soreal-cineverse/playlist.m3u8</location>
-			<title>So...Real</title>
-			<trackNum>5609</trackNum>
-			<duration>59994</duration>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>503</vlc:id>
+				<vlc:id>474</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5637d31f319573e26b64040b/master.m3u8?appName=web&amp;appVersion=unknown&amp;clientTime=0&amp;deviceDNT=0&amp;deviceId=6c2bd7a0-30d3-11ef-9cf5-e9ddff8ff496&amp;deviceMake=Chrome&amp;deviceModel=web&amp;deviceType=web&amp;deviceVersion=unknown&amp;includeExtendedEvents=false&amp;serverSideAds=false&amp;sid=33a4d320-29a2-4c88-9bcb-84a407b88251</location>
 			<title>Stand-Up TV</title>
 			<trackNum>5618</trackNum>
-			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>504</vlc:id>
+				<vlc:id>475</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -4563,7 +4254,7 @@
 			<trackNum>5627</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>505</vlc:id>
+				<vlc:id>476</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -4572,16 +4263,16 @@
 			<trackNum>5636</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>506</vlc:id>
+				<vlc:id>477</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>https://fl5.moveonjoy.com/SUNDANCE/index.m3u8</location>
 			<title>SundanceTV East (720p)</title>
 			<trackNum>5645</trackNum>
-			<duration>22389</duration>
+			<duration>24024</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>507</vlc:id>
+				<vlc:id>478</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -4590,16 +4281,16 @@
 			<trackNum>5654</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>508</vlc:id>
+				<vlc:id>479</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>https://linear-253.frequency.stream/dist/glewedtv/253/hls/master/playlist.m3u8</location>
 			<title>Swerve Sports (1080p)</title>
 			<trackNum>5663</trackNum>
-			<duration>60060</duration>
+			<duration>54054</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>509</vlc:id>
+				<vlc:id>480</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -4608,7 +4299,7 @@
 			<trackNum>5672</trackNum>
 			<duration>8008</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>510</vlc:id>
+				<vlc:id>481</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -4617,7 +4308,7 @@
 			<trackNum>5681</trackNum>
 			<duration>60000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>511</vlc:id>
+				<vlc:id>482</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -4626,16 +4317,16 @@
 			<trackNum>5699</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>512</vlc:id>
+				<vlc:id>483</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-timelinenz-samsungnz/playlist.m3u8</location>
 			<title>Timeline</title>
 			<trackNum>5708</trackNum>
-			<duration>59960</duration>
+			<duration>60000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>513</vlc:id>
+				<vlc:id>484</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -4644,7 +4335,7 @@
 			<trackNum>5717</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>514</vlc:id>
+				<vlc:id>485</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -4653,7 +4344,7 @@
 			<trackNum>5735</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>515</vlc:id>
+				<vlc:id>486</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -4662,16 +4353,16 @@
 			<trackNum>5744</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>516</vlc:id>
+				<vlc:id>487</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6549341853fc9700083901ac/master.m3u8?appName=web&amp;appVersion=unknown&amp;clientTime=0&amp;deviceDNT=0&amp;deviceId=6c2cc200-30d3-11ef-9cf5-e9ddff8ff496&amp;deviceMake=Chrome&amp;deviceModel=web&amp;deviceType=web&amp;deviceVersion=unknown&amp;includeExtendedEvents=false&amp;serverSideAds=false&amp;sid=f8ea05b6-c631-4463-8491-a4394e906d3c</location>
 			<title>Universal Crime</title>
 			<trackNum>5762</trackNum>
-			<duration>30000</duration>
+			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>517</vlc:id>
+				<vlc:id>488</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -4680,7 +4371,7 @@
 			<trackNum>5780</trackNum>
 			<duration>25000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>518</vlc:id>
+				<vlc:id>489</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -4689,16 +4380,7 @@
 			<trackNum>5789</trackNum>
 			<duration>40000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>519</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>https://english-livebkws.cgtn.com/live/encgtn.m3u8</location>
-			<title>CGTN</title>
-			<trackNum>5798</trackNum>
-			<duration>24000</duration>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>520</vlc:id>
+				<vlc:id>490</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -4707,7 +4389,7 @@
 			<trackNum>5807</trackNum>
 			<duration>24000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>521</vlc:id>
+				<vlc:id>491</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -4716,16 +4398,7 @@
 			<trackNum>5825</trackNum>
 			<duration>36036</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>522</vlc:id>
-			</extension>
-		</track>
-		<track>
-			<location>https://food-eu.xiaomi.wurl.tv/playlist.m3u8</location>
-			<title>Food</title>
-			<trackNum>5843</trackNum>
-			<duration>36036</duration>
-			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>523</vlc:id>
+				<vlc:id>492</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -4734,16 +4407,16 @@
 			<trackNum>5852</trackNum>
 			<duration>60000</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>524</vlc:id>
+				<vlc:id>493</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>https://dce1408e0efa4bc4b6ca1366c56911fb.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_RakutenViki/playlist.m3u8?ads.wurl_channel=843&amp;ads.wurl_name=RakutenViki&amp;ads.coppa=0&amp;ads.us_privacy=1---&amp;ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&amp;ads.targetopt=0&amp;ads.plex_token=tzFRBf5UEBHD_vbznsUx&amp;ads.plex_id=60d4edd8b2fdec002c14112f&amp;ads.ua=okhttp/4.9.0&amp;ads.app_bundle=com.plexapp.android&amp;ads.app_store_url=https://play.google.com/store/apps/details?id=com.plexapp.android&amp;ads.gdpr=0&amp;ads.consent=0&amp;ads.device_type=handset&amp;ads.device_id_type=&amp;checkedby:alliptvlinks.com</location>
 			<title>Rakuten VIKI</title>
 			<trackNum>5861</trackNum>
-			<duration>33504</duration>
+			<duration>36036</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>525</vlc:id>
+				<vlc:id>494</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -4751,16 +4424,16 @@
 			<title>Sky Sports F1</title>
 			<trackNum>5870</trackNum>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>526</vlc:id>
+				<vlc:id>495</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8</location>
 			<title>Love Nature</title>
 			<trackNum>5896</trackNum>
-			<duration>60060</duration>
+			<duration>54054</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>527</vlc:id>
+				<vlc:id>496</vlc:id>
 			</extension>
 		</track>
 		<track>
@@ -4769,25 +4442,25 @@
 			<trackNum>5905</trackNum>
 			<duration>60060</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>528</vlc:id>
+				<vlc:id>497</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>https://aegis-cloudfront-1.tubi.video/8d2bf7b1-0e93-405f-8c15-ac0756d05f66/playlist.m3u8</location>
 			<title>Xplore TV</title>
 			<trackNum>5914</trackNum>
-			<duration>55021</duration>
+			<duration>59993</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>529</vlc:id>
+				<vlc:id>498</vlc:id>
 			</extension>
 		</track>
 		<track>
 			<location>https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8</location>
 			<title>MovieSphere</title>
 			<trackNum>5923</trackNum>
-			<duration>59993</duration>
+			<duration>54020</duration>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>530</vlc:id>
+				<vlc:id>499</vlc:id>
 			</extension>
 		</track>
 	</trackList>
@@ -5292,36 +4965,5 @@
 		<vlc:item tid="497"/>
 		<vlc:item tid="498"/>
 		<vlc:item tid="499"/>
-		<vlc:item tid="500"/>
-		<vlc:item tid="501"/>
-		<vlc:item tid="502"/>
-		<vlc:item tid="503"/>
-		<vlc:item tid="504"/>
-		<vlc:item tid="505"/>
-		<vlc:item tid="506"/>
-		<vlc:item tid="507"/>
-		<vlc:item tid="508"/>
-		<vlc:item tid="509"/>
-		<vlc:item tid="510"/>
-		<vlc:item tid="511"/>
-		<vlc:item tid="512"/>
-		<vlc:item tid="513"/>
-		<vlc:item tid="514"/>
-		<vlc:item tid="515"/>
-		<vlc:item tid="516"/>
-		<vlc:item tid="517"/>
-		<vlc:item tid="518"/>
-		<vlc:item tid="519"/>
-		<vlc:item tid="520"/>
-		<vlc:item tid="521"/>
-		<vlc:item tid="522"/>
-		<vlc:item tid="523"/>
-		<vlc:item tid="524"/>
-		<vlc:item tid="525"/>
-		<vlc:item tid="526"/>
-		<vlc:item tid="527"/>
-		<vlc:item tid="528"/>
-		<vlc:item tid="529"/>
-		<vlc:item tid="530"/>
 	</extension>
 </playlist>
